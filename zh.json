@@ -1,0 +1,69 @@
+{
+    "meta": {
+        "lang": {
+            "native": "简体中文",
+            "english": "Chinese, Simplified"
+        }
+    },
+    "common": {
+        "settings": "设置",
+        "back": "返回",
+        "forward": "向前",
+        "exit": "退出"
+    },
+    "start": {
+        "camera": "拍照",
+        "photo_lib": "照片图库",
+        "files": "浏览文件",
+        "clipboard": "剪贴板"
+    },
+    "main": {
+        "manga": "漫画",
+        "anime": "动画",
+        "hentai": "十八禁",
+        "h_anime": "十八禁动画",
+        "artworks": "动画･十八禁 插画",
+        "cgs": "CG",
+        "general": "一般",
+        "sep": "、",
+        "back_choose": "返回选取图像",
+        "choose_new": "选取新图像",
+        "mobile_dat": "现在正在使用移动数据。"
+    },
+    "settings": {
+        "about": [
+            "关于"
+        ],
+        "feedback": [
+            "反馈",
+            "打开Routing Hub页面。"
+        ],
+        "update": [
+            "检查更新",
+            "需要网络连接。"
+        ],
+        "lang": [
+            "语言",
+            "更改语言。"
+        ],
+        "debug": [
+            "调试"
+        ]
+    },
+    "about": {
+        "desc": "“{{what}}”可以很容易地找到图像的来源。",
+        "made_by": "作者: {{who}}",
+        "wt_made_by": "{{what}}的作者: {{who}}",
+        "wt_creat_by": "{{what}}的创建者: {{who}}",
+        "thank_you": "谢谢啦！"
+    },
+    "update": {
+        "install": "立即安装",
+        "whats_new": "{{version}}中的新内容",
+        "changelog": "所有发行说明历史",
+        "up_to_date": "您的版本是最新的。",
+        "available": "有更新可用。",
+        "network": "无法检查更新。\n请检查网络连接并重试。",
+        "server": "检查更新失败。\n请稍后再试。\n\n如果同样的错误重复出现，请给我反馈。\n可以在 {{settings}} → {{debug}} → {{latest_response}} 检查服务器响应。"
+    }
+}

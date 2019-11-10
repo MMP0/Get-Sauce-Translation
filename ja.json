@@ -1,0 +1,69 @@
+{
+    "meta": {
+        "lang": {
+            "native": "日本語",
+            "english": "Japanese"
+        }
+    },
+    "common": {
+        "settings": "設定",
+        "back": "戻る",
+        "forward": "進む",
+        "exit": "終了"
+    },
+    "start": {
+        "camera": "写真を撮る",
+        "photo_lib": "フォトライブラリ",
+        "files": "ファイルをブラウズ",
+        "clipboard": "クリップボード"
+    },
+    "main": {
+        "manga": "漫画",
+        "anime": "アニメ",
+        "hentai": "二次エロ",
+        "h_anime": "エロアニメ",
+        "artworks": "アニメ・えっち イラスト",
+        "cgs": "CG",
+        "general": "全般",
+        "sep": "、",
+        "back_choose": "イメージを選択に戻る",
+        "choose_new": "新しい画像を選択",
+        "mobile_dat": "現在モバイルデータ通信を使用しています。"
+    },
+    "settings": {
+        "about": [
+            "情報"
+        ],
+        "feedback": [
+            "フィードバック",
+            "RoutineHubのページを開きます。"
+        ],
+        "update": [
+            "アップデートの確認",
+            "ネットワーク接続が必要です。"
+        ],
+        "lang": [
+            "言語",
+            "言語を変更します。"
+        ],
+        "debug": [
+            "デバッグ"
+        ]
+    },
+    "about": {
+        "desc": "“{{what}}”を使えば、お持ちの画像のソースを簡単に見つけることができます。",
+        "made_by": "制作者: {{who}}",
+        "wt_made_by": "{{what}}の制作者: {{who}}",
+        "wt_creat_by": "{{what}}の作成者: {{who}}",
+        "thank_you": "ｱﾘｶﾞﾄ!"
+    },
+    "update": {
+        "install": "今すぐインストール",
+        "whats_new": "{{version}}の更新内容",
+        "changelog": "すべてのリリースノート履歴",
+        "up_to_date": "お使いのバージョンは最新です。",
+        "available": "アップデートが利用可能です。",
+        "network": "アップデートを確認できません。\nネットワーク接続を確認して再度お試しください。",
+        "server": "アップデートの確認に失敗しました。\nしばらく経ってから再度お試しください。\n\n同じエラーが繰り返し発生する場合は、フィードバックをお寄せください。\n{{settings}} → {{debug}} → {{latest_response}} でサーバの応答を確認できます。"
+    }
+}

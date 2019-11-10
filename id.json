@@ -1,0 +1,69 @@
+{
+    "meta": {
+        "lang": {
+            "native": "Bahasa Indonesia",
+            "english": "Indonesian"
+        }
+    },
+    "common": {
+        "settings": "Pengaturan",
+        "back": "Kembali",
+        "forward": "Maju",
+        "exit": "Keluar"
+    },
+    "start": {
+        "camera": "Memotret",
+        "photo_lib": "Perpustakaan Foto",
+        "files": "Mencari Berkas",
+        "clipboard": "Papan klip"
+    },
+    "main": {
+        "manga": "Manga",
+        "anime": "Anime",
+        "hentai": "Hentai",
+        "h_anime": "Hentai Anime",
+        "artworks": "Ilustrasi Anime dan Hentai",
+        "cgs": "CG",
+        "general": "Umum",
+        "sep": ", ",
+        "back_choose": "Kembali ke Pilih Gambar",
+        "choose_new": "Pilih Gambar Baru",
+        "mobile_dat": "Anda sedang menggunakan data seluler."
+    },
+    "settings": {
+        "about": [
+            "Tentang"
+        ],
+        "feedback": [
+            "Umpan Balik",
+            "Buka halaman RoutineHub."
+        ],
+        "update": [
+            "Periksa Pembaruan",
+            "Membutuhkan koneksi jaringan."
+        ],
+        "lang": [
+            "Bahasa",
+            "Ubah bahasa."
+        ],
+        "debug": [
+            "Debug"
+        ]
+    },
+    "about": {
+        "desc": "“{{what}}” memudahkan untuk menemukan sumber gambar Anda.",
+        "made_by": "Dibuat oleh {{who}}",
+        "wt_made_by": "{{what}} dibuat oleh {{who}}",
+        "wt_creat_by": "{{what}} dibuat oleh {{who}}",
+        "thank_you": "Terima kasih!"
+    },
+    "update": {
+        "install": "Instal Sekarang",
+        "whats_new": "Apa yang Baru di {{version}}",
+        "changelog": "Semua Catatan Rilis Sejarah",
+        "up_to_date": "Versi Anda mutakhir.",
+        "available": "Pembaruan tersedia.",
+        "network": "Tidak dapat memeriksa pembaruan.\nSilakan periksa koneksi jaringan Anda dan coba lagi.",
+        "server": "Gagal memeriksa pembaruan.\nSilakan coba lagi nanti.\n\nJika kesalahan yang sama terjadi berulang kali, kirimkan saya umpan balik.\nAnda dapat memeriksa respons server di {{settings}} → {{debug}} → {{latest_response}}."
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "meta": {
+        "lang": {
+            "native": "Español",
+            "english": "Spanish"
+        }
+    },
+    "common": {
+        "settings": "Ajustes",
+        "back": "Volver",
+        "forward": "Adelante",
+        "exit": "Salir"
+    },
+    "start": {
+        "camera": "Tomar foto",
+        "photo_lib": "Biblioteca de fotos",
+        "files": "Explorar archivos",
+        "clipboard": "Portapapeles"
+    },
+    "main": {
+        "manga": "Manga",
+        "anime": "Anime",
+        "hentai": "Hentai",
+        "h_anime": "Hentai Anime",
+        "artworks": "Ilustraciones de anime y hentai",
+        "cgs": "CGs",
+        "general": "General",
+        "sep": ", ",
+        "back_choose": "Volver a Elegir imagen",
+        "choose_new": "Elegir nueva imagen",
+        "mobile_dat": "Actualmente estás en datos móviles."
+    },
+    "settings": {
+        "about": [
+            "Acerca"
+        ],
+        "feedback": [
+            "Comentarios",
+            "Abre la página de RoutineHub."
+        ],
+        "update": [
+            "Buscar actualizaciones",
+            "Requiere conexión de red."
+        ],
+        "lang": [
+            "Idioma",
+            "Cambiar el idioma."
+        ],
+        "debug": [
+            "Depurar"
+        ]
+    },
+    "about": {
+        "desc": "“{{what}}” hace que sea fácil encontrar las fuentes de sus imágenes.",
+        "made_by": "Hecho por {{who}}",
+        "wt_made_by": "{{what}} hecho por {{who}}",
+        "wt_creat_by": "{{what}} creado por {{who}}",
+        "thank_you": "¡Gracias!"
+    },
+    "update": {
+        "install": "Instalar ahora",
+        "whats_new": "Lo nuevo en {{version}}",
+        "changelog": "Todas las notas de lanzamiento",
+        "up_to_date": "Su versión está actualizada.",
+        "available": "Una actualización está disponible.",
+        "network": "No se pueden verificar las actualizaciones.\nVerifique su conexión de red e intente nuevamente.",
+        "server": "Error al buscar actualizaciones.\nPor favor, inténtelo de nuevo más tarde.\n\nSi el mismo error ocurre repetidamente, por favor envíeme sus comentarios.\nPuede verificar la respuesta del servidor en {{settings}} → {{debug}} → {{latest_response}}."
+    }
+}

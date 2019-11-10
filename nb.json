@@ -1,0 +1,69 @@
+{
+    "meta": {
+        "lang": {
+            "native": "Norsk bolmål",
+            "english": "Norwegian Bokmål"
+        }
+    },
+    "common": {
+        "settings": "Innstillinger",
+        "back": "Tilbake",
+        "forward": "Videresend",
+        "exit": "Avslutt"
+    },
+    "start": {
+        "camera": "Ta bilde",
+        "photo_lib": "Fotobibliotek",
+        "files": "Bla gjennom filer",
+        "clipboard": "Utklippstavlen"
+    },
+    "main": {
+        "manga": "Manga",
+        "anime": "Anime",
+        "hentai": "Hentai",
+        "h_anime": "Hentai Anime",
+        "artworks": "Illustrasjoner av Anime og Hentai",
+        "cgs": "CG",
+        "general": "Generell",
+        "sep": ", ",
+        "back_choose": "Tilbake til Velg bilde",
+        "choose_new": "Velg nytt bilde",
+        "mobile_dat": "Du er nå inne på mobildata."
+    },
+    "settings": {
+        "about": [
+            "Om"
+        ],
+        "feedback": [
+            "Tilbakemelding",
+            "Åpne RoutineHub-siden."
+        ],
+        "update": [
+            "Se etter oppdateringer",
+            "Krever nettverkstilkobling."
+        ],
+        "lang": [
+            "Språk",
+            "Endre språk."
+        ],
+        "debug": [
+            "Debug"
+        ]
+    },
+    "about": {
+        "desc": "“{{what}}” gjør det enkelt å finne kildene til bildene dine.",
+        "made_by": "Laget av {{who}}",
+        "wt_made_by": "{{what}} laget av {{who}}",
+        "wt_creat_by": "{{what}} laget av {{who}}",
+        "thank_you": "Takk skal du ha!"
+    },
+    "update": {
+        "install": "Installere nå",
+        "whats_new": "Hva er nytt i {{version}}",
+        "changelog": "Alle utgivelsesnotater",
+        "up_to_date": "Din versjon er oppdatert.",
+        "available": "En oppdatering er tilgjengelig.",
+        "network": "Kan ikke se etter oppdateringer.\nKontroller nettverkstilkoblingen din og prøv igjen.",
+        "server": "Kunne ikke se etter oppdateringer.\nPrøv igjen senere.\n\nHvis den samme feilen oppstår gjentatte ganger, kan du sende meg tilbakemelding.\nDu kan sjekke serverresponsen ved {{settings}} → {{debug}} → {{latest_response}}."
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "meta": {
+        "lang": {
+            "native": "Slovenčina",
+            "english": "Slovak"
+        }
+    },
+    "common": {
+        "settings": "Nastavenie",
+        "back": "Späť",
+        "forward": "Vpred",
+        "exit": "Ukončite"
+    },
+    "start": {
+        "camera": "Odfoť",
+        "photo_lib": "Knižnica fotografií",
+        "files": "Prehliadať súbory",
+        "clipboard": "Schránka"
+    },
+    "main": {
+        "manga": "Manga",
+        "anime": "Anime",
+        "hentai": "Hentai",
+        "h_anime": "Hentai Anime",
+        "artworks": "Ilustrácie Anime a Hentai",
+        "cgs": "CG",
+        "general": "Obecný",
+        "sep": ", ",
+        "back_choose": "Späť na Výber obrázka",
+        "choose_new": "Vyberte nový obrázok",
+        "mobile_dat": "Momentálne máte zapnuté mobilné dáta."
+    },
+    "settings": {
+        "about": [
+            "Ohľadom"
+        ],
+        "feedback": [
+            "Spätná väzba",
+            "Otvorte stránku RoutineHub."
+        ],
+        "update": [
+            "Skontroluj aktualizácie",
+            "Vyžaduje sa sieťové pripojenie."
+        ],
+        "lang": [
+            "Jazyk",
+            "Zmeňte jazyk."
+        ],
+        "debug": [
+            "Ladiť"
+        ]
+    },
+    "about": {
+        "desc": "„{{what}}“ uľahčuje vyhľadanie zdrojov vašich obrázkov.",
+        "made_by": "Autor: {{who}}",
+        "wt_made_by": "Autor {{what}}: {{who}}",
+        "wt_creat_by": "Tvorca {{what}}: {{who}}",
+        "thank_you": "Ďakujem!"
+    },
+    "update": {
+        "install": "Nainštalovať teraz",
+        "whats_new": "Čo je nové v {{version}}",
+        "changelog": "Celá história poznámok k vydaniu",
+        "up_to_date": "Vaša verzia je aktuálna.",
+        "available": "K dispozícii je aktualizácia.",
+        "network": "Nie je možné skontrolovať aktualizácie.\nSkontrolujte sieťové pripojenie a skúste to znova.",
+        "server": "Nepodarilo sa skontrolovať aktualizácie.\nSkúste neskôr prosím.\n\nAk sa rovnaká chyba vyskytuje opakovane, pošlite mi spätnú väzbu.\nOdozvu servera môžete skontrolovať na {{settings}} → {{debug}} → {{latest_response}}."
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "meta": {
+        "lang": {
+            "native": "한국어",
+            "english": "Korean"
+        }
+    },
+    "common": {
+        "settings": "설정",
+        "back": "돌아 가기",
+        "forward": "돌아 가기",
+        "exit": "종료"
+    },
+    "start": {
+        "camera": "사진을 찍다",
+        "photo_lib": "사진 보관함에",
+        "files": "파일 찾아보기",
+        "clipboard": "클립 보드"
+    },
+    "main": {
+        "manga": "만화",
+        "anime": "아니메",
+        "hentai": "헨타이",
+        "h_anime": "헨타이 아니메",
+        "artworks": "아니메 ･ 헨타이 삽화",
+        "cgs": "CG",
+        "general": "일반",
+        "sep": ", ",
+        "back_choose": "이미지 선택으로 돌아 가기",
+        "choose_new": "새로운 이미지를 선택한다",
+        "mobile_dat": "현재 모바일 데이터를 사용 중입니다."
+    },
+    "settings": {
+        "about": [
+            "정보"
+        ],
+        "feedback": [
+            "피드백",
+            "RoutineHub 페이지를여십시오."
+        ],
+        "update": [
+            "업데이트 확인",
+            "네트워크 연결이 필요합니다."
+        ],
+        "lang": [
+            "언어",
+            "언어를 바꾸십시오."
+        ],
+        "debug": [
+            "디버그"
+        ]
+    },
+    "about": {
+        "desc": "“{{what}}”을 사용하면 이미지 소스를 쉽게 찾을 수 있습니다.",
+        "made_by": "작자: {{who}}",
+        "wt_made_by": "{{what}}의 작자: {{who}}",
+        "wt_creat_by": "{{what}}의 창조자: {{who}}",
+        "thank_you": "감사합니다!"
+    },
+    "update": {
+        "install": "지금 설치",
+        "whats_new": "{{version}}의 새로운 기능",
+        "changelog": "모든 릴리스 노트 내역",
+        "up_to_date": "버전이 최신입니다.",
+        "available": "업데이트가 가능합니다.",
+        "network": "업데이트를 확인할 수 없습니다.\n네트워크 연결을 확인하고 다시 시도하십시오.",
+        "server": "업데이트를 확인하지 못했습니다.\n나중에 다시 시도하세요.\n\n동일한 오류가 반복적으로 발생하면 의견을 보내 주시기 바랍니다.\n{{settings}} → {{debug}} → {{latest_response}} 에서 서버 응답을 확인할 수 있습니다."
+    }
+}

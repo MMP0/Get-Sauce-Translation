@@ -1,0 +1,69 @@
+{
+    "meta": {
+        "lang": {
+            "native": "Deutsch",
+            "english": "German"
+        }
+    },
+    "common": {
+        "settings": "Einstellungen",
+        "back": "Zurück",
+        "forward": "Weiter",
+        "exit": "Beenden"
+    },
+    "start": {
+        "camera": "Foto aufnehmen",
+        "photo_lib": "Fotobibliothek",
+        "files": "Dateien durchsuchen",
+        "clipboard": "Zwischenablage"
+    },
+    "main": {
+        "manga": "Manga",
+        "anime": "Anime",
+        "hentai": "Hentai",
+        "h_anime": "Hentai Anime",
+        "artworks": "Illustrationen von Anime und Hentai",
+        "cgs": "CGs",
+        "general": "Allgemein",
+        "sep": ", ",
+        "back_choose": "Zurück zum Bild auswählen",
+        "choose_new": "Neues Bild auswählen",
+        "mobile_dat": "Sie sind derzeit auf mobilen Daten."
+    },
+    "settings": {
+        "about": [
+            "Über"
+        ],
+        "feedback": [
+            "Feedback",
+            "Öffne die RoutineHub Seite."
+        ],
+        "update": [
+            "Nach Updates suchen",
+            "Benötigt Netzwerkverbindung."
+        ],
+        "lang": [
+            "Sprache",
+            "Sprache ändern."
+        ],
+        "debug": [
+            "Debuggen"
+        ]
+    },
+    "about": {
+        "desc": "“{{what}}” erleichtert das Auffinden der Quellen Ihrer Bilder.",
+        "made_by": "Gemacht von {{who}}",
+        "wt_made_by": "{{what}} gemacht von {{who}}",
+        "wt_creat_by": "{{what}} erstellt von {{who}}",
+        "thank_you": "Vielen Dank!"
+    },
+    "update": {
+        "install": "Jetzt installieren",
+        "whats_new": "Was ist neu in {{version}}",
+        "changelog": "Alle Versionshinweise",
+        "up_to_date": "Ihre Version ist aktuell.",
+        "available": "Eine Aktualisierung ist verfügbar.",
+        "network": "Aktualisierungen konnten nicht überprüft werden.\nBitte überprüfen Sie Ihre Netzwerkverbindung und versuchen Sie es erneut.",
+        "server": "Fehler beim Überprüfen der Updates.\nBitte versuchen Sie es später erneut.\n\nWenn der gleiche Fehler wiederholt auftritt, senden Sie mir bitte Feedback.\nSie können die Serverantwort unter {{settings}} → {{debug}} → {{latest_response}} überprüfen."
+    }
+}

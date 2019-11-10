@@ -1,0 +1,69 @@
+{
+    "meta": {
+        "lang": {
+            "native": "繁體中文",
+            "english": "Chinese, Traditional"
+        }
+    },
+    "common": {
+        "settings": "設定",
+        "back": "返回",
+        "forward": "向前",
+        "exit": "退出"
+    },
+    "start": {
+        "camera": "拍照",
+        "photo_lib": "照片圖庫",
+        "files": "瀏覽檔案",
+        "clipboard": "剪貼板"
+    },
+    "main": {
+        "manga": "漫畫",
+        "anime": "動畫",
+        "hentai": "十八禁",
+        "h_anime": "十八禁動畫",
+        "artworks": "動畫･十八禁 插圖",
+        "cgs": "CG",
+        "general": "一般",
+        "sep": "，",
+        "back_choose": "返回選擇影像",
+        "choose_new": "選擇新影像",
+        "mobile_dat": "現在正在使用移動數據。"
+    },
+    "settings": {
+        "about": [
+            "關於"
+        ],
+        "feedback": [
+            "迴響",
+            "打開RoutineHub頁面。"
+        ],
+        "update": [
+            "檢查更新",
+            "需要網絡連接。"
+        ],
+        "lang": [
+            "語言",
+            "改變語言。"
+        ],
+        "debug": [
+            "調試"
+        ]
+    },
+    "about": {
+        "desc": "“{{what}}”可以很容易地找到影像的來源。",
+        "made_by": "作者: {{who}}",
+        "wt_made_by": "{{what}}的作者: {{who}}",
+        "wt_creat_by": "{{what}}的創建者: {{who}}",
+        "thank_you": "謝謝啦！"
+    },
+    "update": {
+        "install": "立即安裝",
+        "whats_new": "{{version}}中的新內容",
+        "changelog": "所有發行說明歷史",
+        "up_to_date": "您的版本是最新的。",
+        "available": "有更新可用。",
+        "network": "無法檢查更新。\n請檢查網絡連接並重試。",
+        "server": "檢查更新失敗。\n請稍後再試。\n\n如果同樣的錯誤重複出現，請給我迴響。\n可以在 {{settings}} → {{debug}} → {{latest_response}} 檢查服務器響應。"
+    }
+}

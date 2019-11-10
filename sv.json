@@ -1,0 +1,69 @@
+{
+    "meta": {
+        "lang": {
+            "native": "Svenska",
+            "english": "Swedish"
+        }
+    },
+    "common": {
+        "settings": "Inställningar",
+        "back": "Tillbaka",
+        "forward": "Vidarebefordra",
+        "exit": "Avsluta"
+    },
+    "start": {
+        "camera": "Ta ett foto",
+        "photo_lib": "Fotobibliotek",
+        "files": "Bläddra i filer",
+        "clipboard": "Urklipp"
+    },
+    "main": {
+        "manga": "Manga",
+        "anime": "Anime",
+        "hentai": "Hentai",
+        "h_anime": "Hentai Anime",
+        "artworks": "Illustrationer av Anime och Hentai",
+        "cgs": "CG",
+        "general": "Allmän",
+        "sep": ", ",
+        "back_choose": "Tillbaka till Välj bild",
+        "choose_new": "Välj ny bild",
+        "mobile_dat": "Du är för närvarande på mobildata."
+    },
+    "settings": {
+        "about": [
+            "Om"
+        ],
+        "feedback": [
+            "Återkoppling",
+            "Öppna sidan RoutineHub."
+        ],
+        "update": [
+            "Sök efter uppdateringar",
+            "Kräver nätverksanslutning."
+        ],
+        "lang": [
+            "Språk",
+            "Ändra språket."
+        ],
+        "debug": [
+            "Debug"
+        ]
+    },
+    "about": {
+        "desc": "“{{what}}” gör det enkelt att hitta källorna till dina bilder.",
+        "made_by": "Tillverkad av {{who}}",
+        "wt_made_by": "{{what}} tillverkad av {{who}}",
+        "wt_creat_by": "{{what}} skapad av {{who}}",
+        "thank_you": "Tack!"
+    },
+    "update": {
+        "install": "Installera nu",
+        "whats_new": "Vad är nytt i {{version}}",
+        "changelog": "Alla utgivningsanteckningar",
+        "up_to_date": "Din version är uppdaterad.",
+        "available": "En uppdatering är tillgänglig.",
+        "network": "Det går inte att leta efter uppdateringar.\nKontrollera din nätverksanslutning och försök igen.",
+        "server": "Det gick inte att leta efter uppdateringar.\nVänligen försök igen senare.\n\nOm samma fel uppstår upprepade gånger, skicka mig feedback.\nDu kan kontrollera serverns svar på {{settings}} → {{debug}} → {{latest_response}}."
+    }
+}

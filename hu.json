@@ -1,0 +1,69 @@
+{
+    "meta": {
+        "lang": {
+            "native": "Magyar",
+            "english": "Hungarian"
+        }
+    },
+    "common": {
+        "settings": "Beállítások",
+        "back": "Vissza",
+        "forward": "Előre",
+        "exit": "Lépjen"
+    },
+    "start": {
+        "camera": "Fotót készíteni",
+        "photo_lib": "Fotókönyvtár",
+        "files": "Böngészés a fájlok között",
+        "clipboard": "Vágólap"
+    },
+    "main": {
+        "manga": "Manga",
+        "anime": "Anime",
+        "hentai": "Hentai",
+        "h_anime": "Hentai Anime",
+        "artworks": "Anime és Hentai illusztrációi",
+        "cgs": "CG",
+        "general": "Tábornok",
+        "sep": ", ",
+        "back_choose": "Vissza a Válasszon képet",
+        "choose_new": "Válasszon új képet",
+        "mobile_dat": "Jelenleg a mobil adatokon van."
+    },
+    "settings": {
+        "about": [
+            "Ról ről"
+        ],
+        "feedback": [
+            "Visszacsatolás",
+            "Nyissa meg a RoutineHub oldalt."
+        ],
+        "update": [
+            "Frissítések keresése",
+            "Hálózati kapcsolatot igényel."
+        ],
+        "lang": [
+            "Nyelv",
+            "Cserélje ki a nyelvet."
+        ],
+        "debug": [
+            "Debug"
+        ]
+    },
+    "about": {
+        "desc": "Az “{{what}}” megkönnyíti a képek forrásainak megtalálását.",
+        "made_by": "Szerző: {{who}}",
+        "wt_made_by": "{{what}} szerzője: {{who}}",
+        "wt_creat_by": "{{what}} létrehozója: {{who}}",
+        "thank_you": "Köszönöm!"
+    },
+    "update": {
+        "install": "Telepítés most",
+        "whats_new": "Újdonságok a {{version}}-ben",
+        "changelog": "Minden kiadási megjegyzés",
+        "up_to_date": "A verzióod naprakész.",
+        "available": "Frissítés érhető el.",
+        "network": "Nem sikerült ellenőrizni a frissítéseket.\nEllenőrizze a hálózati kapcsolatot, és próbálja újra.",
+        "server": "Nem sikerült ellenőrizni a frissítéseket.\nKérlek, próbáld újra később.\n\nHa ugyanaz a hiba ismétlődik, kérjük, küldjön visszajelzést.\nA kiszolgáló válaszát a {{settings}} → {{debug}} → {{latest_response}} pontokban ellenőrizheti."
+    }
+}

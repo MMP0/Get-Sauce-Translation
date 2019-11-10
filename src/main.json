@@ -1,0 +1,69 @@
+{
+    "meta": {
+        "lang": {
+            "native": "English",
+            "english": "English"
+        }
+    },
+    "common": {
+        "settings": "Settings",
+        "back": "Back",
+        "forward": "Forward",
+        "exit": "Exit"
+    },
+    "start": {
+        "camera": "Take Photo",
+        "photo_lib": "Photo Library",
+        "files": "Browse Files",
+        "clipboard": "Clipboard"
+    },
+    "main": {
+        "manga": "Manga",
+        "anime": "Anime",
+        "hentai": "Hentai",
+        "h_anime": "Hentai Anime",
+        "artworks": "Anime & Hentai Artworks",
+        "cgs": "CGs",
+        "general": "General",
+        "sep": ", ",
+        "back_choose": "Back to Choose Image",
+        "choose_new": "Choose New Image",
+        "mobile_dat": "You’re on currently on mobile data."
+    },
+    "settings": {
+        "about": [
+            "About"
+        ],
+        "feedback": [
+            "Feedback",
+            "Open the RoutineHub page."
+        ],
+        "update": [
+            "Check for Updates",
+            "Requires network connection."
+        ],
+        "lang": [
+            "Language",
+            "Change the language."
+        ],
+        "debug": [
+            "Debug"
+        ]
+    },
+    "about": {
+        "desc": "“{{what}}” makes it easy to find the sources of your images.",
+        "made_by": "Made by {{who}}",
+        "wt_made_by": "{{what}} made by {{who}}",
+        "wt_creat_by": "{{what}} created by {{who}}",
+        "thank_you": "Thank you!"
+    },
+    "update": {
+        "install": "Install Now",
+        "whats_new": "What’s New in {{version}}",
+        "changelog": "All Release Notes History",
+        "up_to_date": "Your version is up to date.",
+        "available": "An update is available.",
+        "network": "Unable to check for updates.\nPlease check your network connection and try again.",
+        "server": "Failed to check for updates.\nPlease try again later.\n\nIf the same error occurs repeatedly, please send me feedback.\nYou can check the server response at {{settings}} → {{debug}} → {{latest_response}}."
+    }
+}

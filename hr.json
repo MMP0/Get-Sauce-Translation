@@ -1,0 +1,69 @@
+{
+    "meta": {
+        "lang": {
+            "native": "Hrvatski",
+            "english": "Croatian"
+        }
+    },
+    "common": {
+        "settings": "Postavke",
+        "back": "Natrag",
+        "forward": "Naprijed",
+        "exit": "Izađite"
+    },
+    "start": {
+        "camera": "Uslikaj",
+        "photo_lib": "Biblioteka fotografija",
+        "files": "Pregledavanje datoteka",
+        "clipboard": "Međuspremnik"
+    },
+    "main": {
+        "manga": "Manga",
+        "anime": "Anime",
+        "hentai": "Hentai",
+        "h_anime": "Hentai Anime",
+        "artworks": "Ilustracije Anime i Hentai",
+        "cgs": "CG",
+        "general": "General",
+        "sep": ", ",
+        "back_choose": "Natrag za Odabir slike",
+        "choose_new": "Odaberite novu sliku",
+        "mobile_dat": "Trenutno ste na mobilnim podacima."
+    },
+    "settings": {
+        "about": [
+            "Opis"
+        ],
+        "feedback": [
+            "Povratne informacije",
+            "Otvorite stranicu RoutineHub."
+        ],
+        "update": [
+            "Provjerite ažuriranja",
+            "Zahtijeva mrežnu vezu."
+        ],
+        "lang": [
+            "Jezik",
+            "Promijenite jezik."
+        ],
+        "debug": [
+            "Otkloniti neispravnost"
+        ]
+    },
+    "about": {
+        "desc": "“{{what}}” olakšava pronalaženje izvora vaših slika.",
+        "made_by": "Napravio {{who}}",
+        "wt_made_by": "{{what}} napravio {{who}}",
+        "wt_creat_by": "{{what}} stvorio {{who}}",
+        "thank_you": "Hvala vam!"
+    },
+    "update": {
+        "install": "Sada instalirati",
+        "whats_new": "Što je novo u {{version}}",
+        "changelog": "Sve Povijesti bilješki o izdanju",
+        "up_to_date": "Vaša je verzija ažurirana.",
+        "available": "Dostupno je ažuriranje.",
+        "network": "Nije moguće provjeriti ažuriranja.\nProvjerite mrežnu vezu i pokušajte ponovo.",
+        "server": "Provjera ažuriranja nije uspjela.\nMolimo pokušajte ponovo kasnije.\n\nAko se ista greška ponavlja više puta, pošaljite mi povratne informacije.\nOdgovor poslužitelja možete provjeriti na {{settings}} → {{debug}} → {{latest_response}}."
+    }
+}

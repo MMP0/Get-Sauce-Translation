@@ -1,0 +1,69 @@
+{
+    "meta": {
+        "lang": {
+            "native": "Dansk",
+            "english": "Danish"
+        }
+    },
+    "common": {
+        "settings": "Indstillinger",
+        "back": "Tilbage",
+        "forward": "Videresend",
+        "exit": "Afslut"
+    },
+    "start": {
+        "camera": "Tag et billede",
+        "photo_lib": "Fotobibliotek",
+        "files": "Gennemse filer",
+        "clipboard": "Udklipsholder"
+    },
+    "main": {
+        "manga": "Manga",
+        "anime": "Anime",
+        "hentai": "Hentai",
+        "h_anime": "Hentai Anime",
+        "artworks": "Illustrationer af Anime og Hentai",
+        "cgs": "CG",
+        "general": "Generel",
+        "sep": ", ",
+        "back_choose": "Tilbage til Vælg billede",
+        "choose_new": "Vælg nyt billede",
+        "mobile_dat": "Du er i øjeblikket på mobildata."
+    },
+    "settings": {
+        "about": [
+            "Om"
+        ],
+        "feedback": [
+            "Feedback",
+            "Åbn siden RoutineHub."
+        ],
+        "update": [
+            "Søg efter opdateringer",
+            "Kræver netværksforbindelse."
+        ],
+        "lang": [
+            "Sprog",
+            "Skift sprog."
+        ],
+        "debug": [
+            "Fejlfinde"
+        ]
+    },
+    "about": {
+        "desc": "“{{what}}” gør det nemt at finde kilderne til dine billeder.",
+        "made_by": "Lavet af {{who}}",
+        "wt_made_by": "{{what}} lavet af {{who}}",
+        "wt_creat_by": "{{what}} lavet af {{who}}",
+        "thank_you": "Tak skal du have!"
+    },
+    "update": {
+        "install": "Installer nu",
+        "whats_new": "Hvad er nyt i {{version}}",
+        "changelog": "Alle udgivelsesbemærkninger",
+        "up_to_date": "Din version er ajour.",
+        "available": "En opdatering er tilgængelig.",
+        "network": "Kan ikke kontrollere for opdateringer.\nKontroller din netværksforbindelse, og prøv igen.",
+        "server": "Kontrol af opdateringer kunne ikke kontrolleres.\nPrøv igen senere.\n\nHvis den samme fejl opstår gentagne gange, så send mig feedback.\nDu kan kontrollere serverresponset på {{settings}} → {{debug}} → {{latest_response}}."
+    }
+}

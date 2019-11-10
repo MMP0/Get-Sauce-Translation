@@ -1,0 +1,69 @@
+{
+    "meta": {
+        "lang": {
+            "native": "Português (Portugal)",
+            "english": "Portuguese (Portugal)"
+        }
+    },
+    "common": {
+        "settings": "Configurações",
+        "back": "Voltar",
+        "forward": "Encaminhar",
+        "exit": "Sair"
+    },
+    "start": {
+        "camera": "Tirar foto",
+        "photo_lib": "Biblioteca de fotos",
+        "files": "Procurar arquivos",
+        "clipboard": "Prancheta"
+    },
+    "main": {
+        "manga": "Manga",
+        "anime": "Anime",
+        "hentai": "Hentai",
+        "h_anime": "Hentai Anime",
+        "artworks": "Ilustrações de Anime e Hentai",
+        "cgs": "CGs",
+        "general": "Geral",
+        "sep": ", ",
+        "back_choose": "Voltar para Escolha imagem",
+        "choose_new": "Escolha nova imagem",
+        "mobile_dat": "Você está atualmente em dados móveis."
+    },
+    "settings": {
+        "about": [
+            "Sobre"
+        ],
+        "feedback": [
+            "Comentários",
+            "Abra a página do RoutineHub."
+        ],
+        "update": [
+            "Verificar atualizações",
+            "Requer conexão de rede."
+        ],
+        "lang": [
+            "Idioma",
+            "Alterar o idioma."
+        ],
+        "debug": [
+            "Depurar"
+        ]
+    },
+    "about": {
+        "desc": "“{{what}}” facilita a localização das fontes de suas imagens.",
+        "made_by": "Feito por {{who}}",
+        "wt_made_by": "{{what}} feito por {{who}}",
+        "wt_creat_by": "{{what}} criado por {{who}}",
+        "thank_you": "Muito obrigado!"
+    },
+    "update": {
+        "install": "Instalar agora",
+        "whats_new": "O que há de novo em {{version}}",
+        "changelog": "Todas as notas de versão",
+        "up_to_date": "Sua versão está atualizada.",
+        "available": "Uma atualização está disponível.",
+        "network": "Não foi possível verificar se há atualizações.\nVerifique sua conexão de rede e tente novamente.",
+        "server": "Falha ao verificar se há atualizações.\nPor favor, tente novamente mais tarde.\n\nSe o mesmo erro ocorrer repetidamente, envie-me um comentários.\nVocê pode verificar a resposta do servidor em {{settings}} → {{debug}} → {{latest_response}}."
+    }
+}

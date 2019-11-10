@@ -1,0 +1,69 @@
+{
+    "meta": {
+        "lang": {
+            "native": "Bahasa Melayu",
+            "english": "Malay"
+        }
+    },
+    "common": {
+        "settings": "Tetapan",
+        "back": "Kembali",
+        "forward": "Teruskan",
+        "exit": "Keluar"
+    },
+    "start": {
+        "camera": "Mengambil Gambar",
+        "photo_lib": "Perpustakaan Foto",
+        "files": "Semak imbas Fail",
+        "clipboard": "Papan klip"
+    },
+    "main": {
+        "manga": "Manga",
+        "anime": "Anime",
+        "hentai": "Hentai",
+        "h_anime": "Hentai Anime",
+        "artworks": "Ilustrasi Anime dan Hentai",
+        "cgs": "CG",
+        "general": "Umum",
+        "sep": ", ",
+        "back_choose": "Kembali ke Pilih Imej",
+        "choose_new": "Pilih Imej Baru",
+        "mobile_dat": "Anda kini sedang menggunakan data mudah alih."
+    },
+    "settings": {
+        "about": [
+            "Mengenai"
+        ],
+        "feedback": [
+            "Maklumbalas",
+            "Buka halaman RoutineHub."
+        ],
+        "update": [
+            "Menyemak Kemas Kini",
+            "Memerlukan sambungan rangkaian."
+        ],
+        "lang": [
+            "Bahasa",
+            "Tukar bahasa."
+        ],
+        "debug": [
+            "Debug"
+        ]
+    },
+    "about": {
+        "desc": "“{{what}}” memudahkan anda mencari sumber imej anda.",
+        "made_by": "Dibuat oleh {{who}}",
+        "wt_made_by": "{{what}} dibuat oleh {{who}}",
+        "wt_creat_by": "{{what}} dibuat oleh {{who}}",
+        "thank_you": "Terima kasih!"
+    },
+    "update": {
+        "install": "Install Sekarang",
+        "whats_new": "Apa yang Baru di {{version}}",
+        "changelog": "Semua Sejarah Catatan Siaran",
+        "up_to_date": "Versi anda adalah terkini.",
+        "available": "Kemas kini tersedia.",
+        "network": "Tidak dapat menyemak kemas kini.\nSila semak sambungan rangkaian anda dan cuba lagi.",
+        "server": "Gagal menyemak kemas kini.\nSila cuba sebentar lagi.\n\nJika ralat yang sama berlaku berulang kali, sila hantar maklum balas kepada saya.\nAnda boleh menyemak respons pelayan di {{settings}} → {{debug}} → {{latest_response}}."
+    }
+}

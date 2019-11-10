@@ -1,0 +1,69 @@
+{
+    "meta": {
+        "lang": {
+            "native": "Italiano",
+            "english": "Italian"
+        }
+    },
+    "common": {
+        "settings": "Impostazioni",
+        "back": "Torna",
+        "forward": "Avanti",
+        "exit": "Esci"
+    },
+    "start": {
+        "camera": "Scatta foto",
+        "photo_lib": "Libreria foto",
+        "files": "Sfoglia i file",
+        "clipboard": "Appunti"
+    },
+    "main": {
+        "manga": "Manga",
+        "anime": "Anime",
+        "hentai": "Hentai",
+        "h_anime": "Hentai Anime",
+        "artworks": "Illustrazione di Anime e Hentai",
+        "cgs": "CG",
+        "general": "Generale",
+        "sep": ", ",
+        "back_choose": "Torna a Scegli immagine",
+        "choose_new": "Scegli una nuova immagine",
+        "mobile_dat": "Attualmente sei su dati mobili."
+    },
+    "settings": {
+        "about": [
+            "Riguardo"
+        ],
+        "feedback": [
+            "Risposta",
+            "Apri la pagina RoutineHub."
+        ],
+        "update": [
+            "Controlla aggiornamenti",
+            "Richiede connessione di rete."
+        ],
+        "lang": [
+            "Lingua",
+            "Cambia la lingua."
+        ],
+        "debug": [
+            "Debug"
+        ]
+    },
+    "about": {
+        "desc": "“{{what}}” semplifica la ricerca delle fonti delle tue immagini.",
+        "made_by": "Fatto da {{who}}",
+        "wt_made_by": "{{what}} fatto da {{who}}",
+        "wt_creat_by": "{{what}} creato da {{who}}",
+        "thank_you": "Grazie!"
+    },
+    "update": {
+        "install": "Installa ora",
+        "whats_new": "Cosa c'è di nuovo in {{version}}",
+        "changelog": "Tutte le note di rilascio",
+        "up_to_date": "La tua versione è aggiornata.",
+        "available": "Un aggiornamento è disponibile.",
+        "network": "Impossibile controllare gli aggiornamenti.\nControlla la connessione di rete e riprova.",
+        "server": "Impossibile controllare gli aggiornamenti.\nRiprova più tardi.\n\nSe lo stesso errore si verifica ripetutamente, per favore inviami un feedback.\nPuoi controllare la risposta al server su {{settings}} → {{debug}} → {{latest_response}}."
+    }
+}

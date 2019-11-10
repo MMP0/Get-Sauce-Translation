@@ -1,0 +1,69 @@
+{
+    "meta": {
+        "lang": {
+            "native": "Suomi",
+            "english": "Finish"
+        }
+    },
+    "common": {
+        "settings": "Asetukset",
+        "back": "Takaisin",
+        "forward": "Eteenpäin",
+        "exit": "Poistu"
+    },
+    "start": {
+        "camera": "Ota valokuva",
+        "photo_lib": "Valokuvakirjasto",
+        "files": "Selaa tiedostoja",
+        "clipboard": "Leikepöydälle"
+    },
+    "main": {
+        "manga": "Manga",
+        "anime": "Anime",
+        "hentai": "Hentai",
+        "h_anime": "Hentai Anime",
+        "artworks": "Kuva Anime ja Hentai",
+        "cgs": "CGt",
+        "general": "Yleinen",
+        "sep": ", ",
+        "back_choose": "Takaisin Valitse kuva",
+        "choose_new": "Valitse uusi kuva",
+        "mobile_dat": "Olet tällä hetkellä mobiililaitteissa."
+    },
+    "settings": {
+        "about": [
+            "Tietoja"
+        ],
+        "feedback": [
+            "Palaute",
+            "Avaa RoutineHub-sivu."
+        ],
+        "update": [
+            "Tarkista päivitykset",
+            "Edellyttää verkkoyhteyttä."
+        ],
+        "lang": [
+            "Kieli",
+            "Vaihda kieli."
+        ],
+        "debug": [
+            "Debug"
+        ]
+    },
+    "about": {
+        "desc": "“{{what}}” on helppo löytää kuvasi lähteet.",
+        "made_by": "Kirjailija: {{who}}",
+        "wt_made_by": "{{what}}-kirjoittaja: {{who}}",
+        "wt_creat_by": "{{what}}-luoja: {{who}}",
+        "thank_you": "Kiitos!"
+    },
+    "update": {
+        "install": "Asenna nyt",
+        "whats_new": "Uutta {{version}}: ssä",
+        "changelog": "Kaikki julkaisutiedot historia",
+        "up_to_date": "Versiosi on ajan tasalla.",
+        "available": "Päivitys on saatavana.",
+        "network": "Päivityksiä ei voi tarkistaa.\nTarkista verkkoyhteys ja yritä uudelleen.",
+        "server": "Päivitysten tarkistaminen epäonnistui.\nYritä uudelleen myöhemmin.\n\nJos sama virhe ilmenee toistuvasti, lähetä minulle palautetta.\nVoit tarkistaa palvelimen vastauksen kohdasta {{settings}} → {{debug}} → {{latest_response}}."
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "meta": {
+        "lang": {
+            "native": "Nederlands",
+            "english": "Dutch"
+        }
+    },
+    "common": {
+        "settings": "Instellingen",
+        "back": "Terug",
+        "forward": "Doorsturen",
+        "exit": "Verlaat"
+    },
+    "start": {
+        "camera": "Foto nemen",
+        "photo_lib": "Fotogalerij",
+        "files": "Bestanden doorbladeren",
+        "clipboard": "Klembord"
+    },
+    "main": {
+        "manga": "Manga",
+        "anime": "Anime",
+        "hentai": "Hentai",
+        "h_anime": "Hentai Anime",
+        "artworks": "Illustraties van Anime en Hentai",
+        "cgs": "CG",
+        "general": "Algemeen",
+        "sep": ", ",
+        "back_choose": "Terug naar Afbeelding kiezen",
+        "choose_new": "Kies nieuwe afbeelding",
+        "mobile_dat": "U gebruikt momenteel mobiele gegevens."
+    },
+    "settings": {
+        "about": [
+            "Over"
+        ],
+        "feedback": [
+            "Terugkoppeling",
+            "Open de RoutineHub-pagina."
+        ],
+        "update": [
+            "Controleer op updates",
+            "Vereist netwerkverbinding."
+        ],
+        "lang": [
+            "Taal",
+            "Verander de taal."
+        ],
+        "debug": [
+            "Debug"
+        ]
+    },
+    "about": {
+        "desc": "“{{what}}” maakt het gemakkelijk om de bronnen van uw afbeeldingen te vinden.",
+        "made_by": "Gemaakt door {{who}}",
+        "wt_made_by": "{{what}} gemaakt door {{who}}",
+        "wt_creat_by": "{{what}} gemaakt door {{who}}",
+        "thank_you": "Dank je!"
+    },
+    "update": {
+        "install": "Installeer nu",
+        "whats_new": "Wat is er nieuw in {{version}}",
+        "changelog": "Alle release-opmerkingen",
+        "up_to_date": "Uw versie is bijgewerkt.",
+        "available": "Een update is beschikbaar.",
+        "network": "Kan niet controleren op updates.\nControleer uw netwerkverbinding en probeer het opnieuw.",
+        "server": "Kan niet controleren op updates.\nProbeer het later opnieuw.\n\nStuur mij feedback als dezelfde fout herhaaldelijk optreedt.\nU kunt de serverreactie controleren op {{settings}} → {{debug}} → {{latest_response}}."
+    }
+}

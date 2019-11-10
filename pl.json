@@ -1,0 +1,69 @@
+{
+    "meta": {
+        "lang": {
+            "native": "Polski",
+            "english": "Polish"
+        }
+    },
+    "common": {
+        "settings": "Ustawienia",
+        "back": "Powrót",
+        "forward": "Przekaż",
+        "exit": "Wyjdź"
+    },
+    "start": {
+        "camera": "Zrobić zdjęcie",
+        "photo_lib": "Album zdjęć",
+        "files": "Przeglądaj pliki",
+        "clipboard": "Schowek"
+    },
+    "main": {
+        "manga": "Manga",
+        "anime": "Anime",
+        "hentai": "Hentai",
+        "h_anime": "Hentai Anime",
+        "artworks": "Ilustracje Anime i Hentai",
+        "cgs": "CG",
+        "general": "Ogólne",
+        "sep": ", ",
+        "back_choose": "Powrót do Wybierz obraz",
+        "choose_new": "Wybierz nowy obraz",
+        "mobile_dat": "Aktualnie używasz komórkowej transmisji danych."
+    },
+    "settings": {
+        "about": [
+            "Opis"
+        ],
+        "feedback": [
+            "Informacje zwrotne",
+            "Otwórz stronę RoutineHub."
+        ],
+        "update": [
+            "Sprawdź aktualizacje",
+            "Wymaga połączenia sieciowego."
+        ],
+        "lang": [
+            "Język",
+            "Zmień język."
+        ],
+        "debug": [
+            "Odpluskwić"
+        ]
+    },
+    "about": {
+        "desc": "„{{what}}” ułatwia znalezienie źródeł twoich zdjęć.",
+        "made_by": "Wykonane przez {{who}}",
+        "wt_made_by": "{{what}} wykonane przez {{who}}",
+        "wt_creat_by": "{{what}} stworzony przez {{who}}",
+        "thank_you": "Dziękuję Ci!"
+    },
+    "update": {
+        "install": "Zainstaluj teraz",
+        "whats_new": "Co nowego w {{version}}",
+        "changelog": "Wszystkie informacje o wydaniu",
+        "up_to_date": "Twoja wersja jest aktualna.",
+        "available": "Aktualizacja jest dostępna.",
+        "network": "Nie można sprawdzić aktualizacji.\nSprawdź połączenie sieciowe i spróbuj ponownie.",
+        "server": "Nie udało się sprawdzić aktualizacji.\nSpróbuj ponownie później.\n\nJeśli ten sam błąd występuje wielokrotnie, proszę o przesłanie opinii.\nMożesz sprawdzić odpowiedź serwera na {{settings}} → {{debug}} → {{latest_response}}."
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "meta": {
+        "lang": {
+            "native": "Français",
+            "english": "French"
+        }
+    },
+    "common": {
+        "settings": "Paramètres",
+        "back": "Retour",
+        "forward": "Transférer",
+        "exit": "Quitter"
+    },
+    "start": {
+        "camera": "Prendre photo",
+        "photo_lib": "Bibliothèque de photos",
+        "files": "Parcourir les fichiers",
+        "clipboard": "Presse-papiers"
+    },
+    "main": {
+        "manga": "Manga",
+        "anime": "Anime",
+        "hentai": "Hentaï",
+        "h_anime": "Hentaï Anime",
+        "artworks": "Illustrations d'Anime et Hentaï",
+        "cgs": "CGs",
+        "general": "Général",
+        "sep": ", ",
+        "back_choose": "Retour à Choisir une image",
+        "choose_new": "Choisir une nouvelle image",
+        "mobile_dat": "Vous êtes sur les données mobiles actuellement."
+    },
+    "settings": {
+        "about": [
+            "À propos"
+        ],
+        "feedback": [
+            "Commentaires",
+            "Ouvrez la page RoutineHub."
+        ],
+        "update": [
+            "Vérifier les mises à jour",
+            "Nécessite une connexion réseau."
+        ],
+        "lang": [
+            "Langue",
+            "Changer la langue."
+        ],
+        "debug": [
+            "Déboguer"
+        ]
+    },
+    "about": {
+        "desc": "“{{what}}” facilite la recherche des sources de vos images.",
+        "made_by": "Fait par {{who}}",
+        "wt_made_by": "{{what}} fait par {{who}}",
+        "wt_creat_by": "{{what}} créé par {{who}}",
+        "thank_you": "Merci!"
+    },
+    "update": {
+        "install": "Installer maintenant",
+        "whats_new": "Nouveautés dans {{version}}",
+        "changelog": "Toutes les notes de publication",
+        "up_to_date": "Votre version est à jour.",
+        "available": "Une mise à jour est disponible.",
+        "network": "Impossible de vérifier les mises à jour.\nVeuillez vérifier votre connexion réseau et réessayer.",
+        "server": "Échec de la recherche de mises à jour.\nVeuillez réessayer plus tard.\n\nSi la même erreur se répète, envoyez-moi vos commentaires.\nVous pouvez vérifier la réponse du serveur sur {{settings}} → {{debug}} → {{latest_response}}."
+    }
+}
