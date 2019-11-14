@@ -28,7 +28,11 @@
         "sep": ", ",
         "back_choose": "Quay lại Chọn hình ảnh",
         "choose_new": "Chọn hình ảnh mới",
-        "mobile_dat": "Bạn hiện đang trên dữ liệu di động."
+        "mobile_dat": "Bạn hiện đang trên dữ liệu di động.",
+        "unsupported": [
+            "Đầu vào không được hỗ trợ",
+            "Không thể nhận bất kỳ URL hoặc hình ảnh nào từ đầu vào ({{input_types}}).\nNó phải là URL, Văn bản chứa URL, Hình ảnh hoặc Phương tiện hình ảnh."
+        ]
     },
     "settings": {
         "about": [
