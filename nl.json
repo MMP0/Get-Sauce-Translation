@@ -28,7 +28,11 @@
         "sep": ", ",
         "back_choose": "Terug naar Afbeelding kiezen",
         "choose_new": "Kies nieuwe afbeelding",
-        "mobile_dat": "U gebruikt momenteel mobiele gegevens."
+        "mobile_dat": "U gebruikt momenteel mobiele gegevens.",
+        "unsupported": [
+            "Niet-ondersteunde invoer",
+            "Kan geen URL of afbeelding ophalen uit invoer ({{input_types}}).\nHet moet een URL, tekst met URL, afbeelding of fotomedia zijn."
+        ]
     },
     "settings": {
         "about": [

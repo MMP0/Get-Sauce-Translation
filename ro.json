@@ -28,7 +28,11 @@
         "sep": ", ",
         "back_choose": "Înapoi pentru a Alege imagine",
         "choose_new": "Alegeți o imagine nouă",
-        "mobile_dat": "În prezent, vă aflați pe date mobile."
+        "mobile_dat": "În prezent, vă aflați pe date mobile.",
+        "unsupported": [
+            "Intrare neacceptată",
+            "Imposibil de obținut orice adresă URL sau imagine de la intrare ({{input_types}}).\nTrebuie să fie URL, text care să conțină URL, imagine sau suport de fotografii."
+        ]
     },
     "settings": {
         "about": [

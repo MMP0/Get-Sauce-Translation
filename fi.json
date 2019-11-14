@@ -28,7 +28,11 @@
         "sep": ", ",
         "back_choose": "Takaisin Valitse kuva",
         "choose_new": "Valitse uusi kuva",
-        "mobile_dat": "Olet tällä hetkellä mobiililaitteissa."
+        "mobile_dat": "Olet tällä hetkellä mobiililaitteissa.",
+        "unsupported": [
+            "Ei tuettu syöttö",
+            "Mitään URL-osoitetta tai kuvaa ei saada syötteestä ({{input_types}}).\nSen on oltava URL, teksti, joka sisältää URL-, kuva- tai valokuvavälineen."
+        ]
     },
     "settings": {
         "about": [

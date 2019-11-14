@@ -28,7 +28,11 @@
         "sep": ", ",
         "back_choose": "Zpět na Výběr obrázku",
         "choose_new": "Vyberte nový obrázek",
-        "mobile_dat": "Momentálně používáte mobilní data."
+        "mobile_dat": "Momentálně používáte mobilní data.",
+        "unsupported": [
+            "Nepodporovaný vstup",
+            "Nelze získat žádnou adresu URL nebo obrázek ze vstupu ({{input_types}}).\nMusí to být adresa URL, text, který obsahuje adresu URL, obrázek nebo fotografické médium."
+        ]
     },
     "settings": {
         "about": [

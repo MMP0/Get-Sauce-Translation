@@ -28,7 +28,11 @@
         "sep": ", ",
         "back_choose": "Retour à Choisir une image",
         "choose_new": "Choisir une nouvelle image",
-        "mobile_dat": "Vous êtes sur les données mobiles actuellement."
+        "mobile_dat": "Vous êtes sur les données mobiles actuellement.",
+        "unsupported": [
+            "Entrée non prise en charge",
+            "Impossible d'obtenir une URL ou une image à partir d'une entrée ({{input_types}}).\nIl doit s'agir d'une URL, d'un texte contenant un média URL, une image ou une photo."
+        ]
     },
     "settings": {
         "about": [

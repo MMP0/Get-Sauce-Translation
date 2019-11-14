@@ -28,7 +28,11 @@
         "sep": ", ",
         "back_choose": "Vissza a Válasszon képet",
         "choose_new": "Válasszon új képet",
-        "mobile_dat": "Jelenleg a mobil adatokon van."
+        "mobile_dat": "Jelenleg a mobil adatokon van.",
+        "unsupported": [
+            "Nem támogatott bemenet",
+            "Nem sikerült beolvasni URL-t vagy képet a bemenetről ({{input_types}}).\nEnnek URL-nek, szövegnek, amely URL-t, képet vagy fotóhordozót tartalmaz."
+        ]
     },
     "settings": {
         "about": [
