@@ -28,7 +28,11 @@
         "sep": ", ",
         "back_choose": "Powrót do Wybierz obraz",
         "choose_new": "Wybierz nowy obraz",
-        "mobile_dat": "Aktualnie używasz komórkowej transmisji danych."
+        "mobile_dat": "Aktualnie używasz komórkowej transmisji danych.",
+        "unsupported": [
+            "Nieobsługiwane dane wejściowe",
+            "Nie można uzyskać żadnego adresu URL ani obrazu z danych wejściowych ({{input_types}}).\nMusi to być adres URL, tekst zawierający adres URL, obraz lub nośnik fotograficzny."
+        ]
     },
     "settings": {
         "about": [
