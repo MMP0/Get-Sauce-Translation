@@ -31,7 +31,7 @@
         "mobile_dat": "You’re on currently on mobile data.",
         "unsupported": [
             "Unsupported Input",
-            "Unable to get any Image or URL from input ({{input_types}}).\nIt must be URL, Text that contains URL, Image, or Photo media."
+            "Unable to get any URL or Image from input ({{input_types}}).\nIt must be URL, Text that contains URL, Image, or Photo media."
         ]
     },
     "settings": {
