@@ -28,7 +28,11 @@
         "sep": ", ",
         "back_choose": "이미지 선택으로 돌아 가기",
         "choose_new": "새로운 이미지를 선택한다",
-        "mobile_dat": "현재 모바일 데이터를 사용 중입니다."
+        "mobile_dat": "현재 모바일 데이터를 사용 중입니다.",
+        "unsupported": [
+            "지원되지 않는 입력",
+            "입력 ({{input_types}}) 에서 URL 또는 이미지를 가져올 수 없습니다.\nURL, URL이 포함 된 텍스트, 이미지 또는 사진 미디어 여야합니다."
+        ]
     },
     "settings": {
         "about": [
