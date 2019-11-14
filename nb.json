@@ -28,7 +28,11 @@
         "sep": ", ",
         "back_choose": "Tilbake til Velg bilde",
         "choose_new": "Velg nytt bilde",
-        "mobile_dat": "Du er nå inne på mobildata."
+        "mobile_dat": "Du er nå inne på mobildata.",
+        "unsupported": [
+            "Ikke-støttet innspill",
+            "Kan ikke hente URL eller bilde fra input ({{input_types}}).\nDet må være URL, tekst som inneholder URL, bilde eller foto."
+        ]
     },
     "settings": {
         "about": [
