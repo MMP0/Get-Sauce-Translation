@@ -1,0 +1,74 @@
+{
+    "meta": {
+        "lang": {
+            "native": "(uʍoꓷ ǝpᴉsdꓵ) ɥsᴉๅɓuƎ",
+            "english": "English (Upside Down)",
+            "right_to_left": true
+        }
+    },
+    "common": {
+        "settings": "sɓuᴉʇʇǝS",
+        "back": "ʞɔɐꓭ",
+        "forward": "pɹɐʍɹoꓞ",
+        "exit": "ʇᴉxƎ"
+    },
+    "start": {
+        "camera": "oʇoɥꓒ ǝʞɐꓕ",
+        "photo_lib": "ʎɹɐɹqᴉꓶ oʇoɥꓒ",
+        "files": "sǝๅᴉꓞ ǝsʍoɹꓭ",
+        "clipboard": "pɹɐoqdᴉๅꓛ"
+    },
+    "main": {
+        "manga": "ɐɓuɐW",
+        "anime": "ǝɯᴉuⱯ",
+        "hentai": "ᴉɐʇuǝH",
+        "h_anime": "ǝɯᴉuⱯ ᴉɐʇuǝH",
+        "artworks": "sʞɹoʍʇɹⱯ ᴉɐʇuǝH ⅋ ǝɯᴉuⱯ",
+        "cgs": "sꓨꓛ",
+        "general": "ๅɐɹǝuǝꓨ",
+        "sep": " ʻ",
+        "back_choose": "ǝɓɐɯI ǝsooɥꓛ oʇ ʞɔɐꓭ",
+        "choose_new": "ǝɓɐɯI ʍǝN ǝsooɥꓛ",
+        "mobile_dat": "·ɐʇɐp ǝๅᴉqoɯ uo ʎๅʇuǝɹɹnɔ uo ǝɹˌno⅄",
+        "unsupported": [
+            "ʇnduI pǝʇɹoddnsuꓵ",
+            "·ɐᴉpǝɯ oʇoɥꓒ ɹo ʻǝɓɐɯI ʻꓶꓤꓵ suᴉɐʇuoɔ ʇɐɥʇ ʇxǝꓕ ʻꓶꓤꓵ ǝq ʇsnɯ ʇI\n·({{input_types}}) ʇnduᴉ ɯoɹɟ ǝɓɐɯI ɹo ꓶꓤꓵ ʎuɐ ʇǝɓ oʇ ǝๅqɐuꓵ"
+        ]
+    },
+    "settings": {
+        "about": [
+            "ʇnoqⱯ"
+        ],
+        "feedback": [
+            "ʞɔɐqpǝǝꓞ",
+            "·ǝɓɐd qnHǝuᴉʇnoꓤ ǝɥʇ uǝdO"
+        ],
+        "update": [
+            "sǝʇɐpdꓵ ɹoɟ ʞɔǝɥꓛ",
+            "·uoᴉʇɔǝuuoɔ ʞɹoʍʇǝu sǝɹᴉnbǝꓤ"
+        ],
+        "lang": [
+            "ǝɓɐnɓuɐꓶ",
+            "·ǝɓɐnɓuɐๅ ǝɥʇ ǝɓuɐɥꓛ"
+        ],
+        "debug": [
+            "ɓnqǝꓷ"
+        ]
+    },
+    "about": {
+        "desc": "·sǝɓɐɯᴉ ɹnoʎ ɟo sǝɔɹnos ǝɥʇ puᴉɟ oʇ ʎsɐǝ ʇᴉ sǝʞɐɯ ˌˌ{{what}}ˌˌ",
+        "made_by": "{{who}} ʎq ǝpɐW",
+        "wt_made_by": "{{who}} ʎq ǝpɐɯ {{what}}",
+        "wt_creat_by": "{{who}} ʎq pǝʇɐǝɹɔ {{what}}",
+        "thank_you": "¡noʎ ʞuɐɥꓕ"
+    },
+    "update": {
+        "install": "ʍoN ๅๅɐʇsuI",
+        "whats_new": "{{version}} uᴉ ʍǝN sˌʇɐɥM",
+        "changelog": "ʎɹoʇsᴉH sǝʇoN ǝsɐǝๅǝꓤ ๅๅⱯ",
+        "up_to_date": "·ǝʇɐp oʇ dn sᴉ uoᴉsɹǝʌ ɹno⅄",
+        "available": "·ǝๅqɐๅᴉɐʌɐ sᴉ ǝʇɐpdn uⱯ",
+        "network": "·uᴉɐɓɐ ʎɹʇ puɐ uoᴉʇɔǝuuoɔ ʞɹoʍʇǝu ɹnoʎ ʞɔǝɥɔ ǝsɐǝๅꓒ\n·sǝʇɐpdn ɹoɟ ʞɔǝɥɔ oʇ ǝๅqɐuꓵ",
+        "server": "·{{latest_response}} ← {{debug}} ← {{settings}} ʇɐ ǝsuodsǝɹ ɹǝʌɹǝs ǝɥʇ ʞɔǝɥɔ uɐɔ no⅄\n·ʞɔɐqpǝǝɟ ǝɯ puǝs ǝsɐǝๅd ʻʎๅpǝʇɐǝdǝɹ sɹnɔɔo ɹoɹɹǝ ǝɯɐs ǝɥʇ ɟI\n\n·ɹǝʇɐๅ uᴉɐɓɐ ʎɹʇ ǝsɐǝๅꓒ\n·sǝʇɐpdn ɹoɟ ʞɔǝɥɔ oʇ pǝๅᴉɐꓞ"
+    }
+}
