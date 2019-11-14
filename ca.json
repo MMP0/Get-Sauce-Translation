@@ -31,7 +31,7 @@
         "mobile_dat": "Actualment es troba en dades mòbils.",
         "unsupported": [
             "Entrada no compatible",
-            "No es pot obtenir cap URL o imatge des de l'entrada ({{input_types}}).\nHa de ser URL, text que contingui URL, imatge o suports fotogràfics."
+            "No es pot obtenir cap URL o imatge des de l’entrada ({{input_types}}).\nHa de ser URL, text que contingui URL, imatge o suports fotogràfics."
         ]
     },
     "settings": {
@@ -68,6 +68,6 @@
         "up_to_date": "La vostra versió està actualitzada.",
         "available": "Una actualització està disponible.",
         "network": "No es pot comprovar si hi ha actualitzacions.\nComproveu la connexió de xarxa i torneu-ho a provar.",
-        "server": "No s'ha pogut comprovar si hi ha actualitzacions.\nSi us plau, intenta-ho més tard.\n\nSi es produeix el mateix error repetidament, envieu-me comentaris.\nPodeu consultar la resposta del servidor a {{settings}} → {{debug}} → {{latest_response}}."
+        "server": "No s’ha pogut comprovar si hi ha actualitzacions.\nSi us plau, intenta-ho més tard.\n\nSi es produeix el mateix error repetidament, envieu-me comentaris.\nPodeu consultar la resposta del servidor a {{settings}} → {{debug}} → {{latest_response}}."
     }
 }

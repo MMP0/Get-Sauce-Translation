@@ -22,7 +22,7 @@
         "anime": "Anime",
         "hentai": "Hentaï",
         "h_anime": "Hentaï Anime",
-        "artworks": "Illustrations d'Anime et Hentaï",
+        "artworks": "Illustrations d’Anime et Hentaï",
         "cgs": "CGs",
         "general": "Général",
         "sep": ", ",
@@ -31,7 +31,7 @@
         "mobile_dat": "Vous êtes sur les données mobiles actuellement.",
         "unsupported": [
             "Entrée non prise en charge",
-            "Impossible d'obtenir une URL ou une image à partir d'une entrée ({{input_types}}).\nIl doit s'agir d'une URL, d'un texte contenant un média URL, une image ou une photo."
+            "Impossible d’obtenir une URL ou une image à partir d’une entrée ({{input_types}}).\nIl doit s’agir d’une URL, d’un texte contenant un média URL, une image ou une photo."
         ]
     },
     "settings": {
