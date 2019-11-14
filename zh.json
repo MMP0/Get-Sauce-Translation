@@ -31,7 +31,7 @@
         "mobile_dat": "现在正在使用移动数据。",
         "unsupported": [
             "不支持的输入",
-            "无法从输入 ({{input_types}) 获取任何URL或图像。\n必须是URL、包含URL的文本、图像或照片媒体。"
+            "无法从输入 ({{input_types}}) 获取任何URL或图像。\n必须是URL、包含URL的文本、图像或照片媒体。"
         ]
     },
     "settings": {
