@@ -28,7 +28,11 @@
         "sep": ", ",
         "back_choose": "Kembali ke Pilih Imej",
         "choose_new": "Pilih Imej Baru",
-        "mobile_dat": "Anda kini sedang menggunakan data mudah alih."
+        "mobile_dat": "Anda kini sedang menggunakan data mudah alih.",
+        "unsupported": [
+            "Input tidak disokong",
+            "Tidak dapat mendapatkan sebarang URL atau Imej dari input ({{input_types}}).\nIa mestilah URL, Teks yang mengandungi URL, Imej, atau media Foto."
+        ]
     },
     "settings": {
         "about": [
