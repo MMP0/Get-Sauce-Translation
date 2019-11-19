@@ -32,6 +32,10 @@
         "unsupported": [
             "Nepodržani unos",
             "Nije moguće dobiti bilo koji URL ili sliku iz unosa ({{input_types}}).\nTo mora biti URL, tekst koji sadrži URL, sliku ili foto medij."
+        ],
+        "baidu_404": [
+            "Nevažeći odgovor",
+            "Baidu je vratio nevažeći odgovor.\nČini se da je URL blokiran u Kini."
         ]
     },
     "settings": {
