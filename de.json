@@ -34,8 +34,8 @@
             "URL oder Bild kann nicht von der Eingabe ({{input_types}}) abgerufen werden.\nEs muss sich um URL, Text mit URL, Bild oder Fotomedien handeln."
         ],
         "baidu_404": [
-            "Ongeldige reactie",
-            "Baidu heeft een ongeldige reactie geretourneerd.\nDe URL lijkt te zijn geblokkeerd in China."
+            "Ungültige Antwort",
+            "Baidu hat eine ungültige Antwort zurückgegeben.\nDie URL scheint in China gesperrt zu sein."
         ]
     },
     "settings": {
