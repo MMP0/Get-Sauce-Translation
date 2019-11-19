@@ -52,6 +52,10 @@
         ],
         "debug": [
             "Debug"
+        ],
+        "baidu_404": [
+            "Érvénytelen válasz",
+            "Baidu érvénytelen választ adott vissza.\nÚgy tűnik, hogy Kína nem blokkolja az URL-t."
         ]
     },
     "about": {
