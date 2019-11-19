@@ -28,10 +28,14 @@
         "sep": ", ",
         "back_choose": "Back to Choose Image",
         "choose_new": "Choose New Image",
-        "mobile_dat": "You’re on currently on mobile data.",
+        "mobile_dat": "You’re currently on mobile data.",
         "unsupported": [
             "Unsupported Input",
             "Unable to get any URL or Image from input ({{input_types}}).\nIt must be URL, Text that contains URL, Image, or Photo media."
+        ],
+        "baidu_404": [
+            "Invalid Response",
+            "Baidu returned an invalid response.\nThe URL appears to be blocked in China."
         ]
     },
     "settings": {
