@@ -32,6 +32,10 @@
         "unsupported": [
             "Desteklenmeyen Giriş",
             "Girişten ({{input_types}}) URL veya Resim alınamıyor.\nURL, URL içeren URL, Resim veya Fotoğraf medyası olmalıdır."
+        ],
+        "baidu_404": [
+            "Geçersiz cevap",
+            "Baidu geçersiz bir cevap verdi.\nBu URL, Çin’de engellenmiş görünüyor."
         ]
     },
     "settings": {
