@@ -32,6 +32,10 @@
         "unsupported": [
             "Input tidak disokong",
             "Tidak dapat mendapatkan sebarang URL atau Imej dari input ({{input_types}}).\nIa mestilah URL, Teks yang mengandungi URL, Imej, atau media Foto."
+        ],
+        "baidu_404": [
+            "Respons tidak sah",
+            "Baidu membalas respons tidak sah.\nURL ini akan disekat di China."
         ]
     },
     "settings": {

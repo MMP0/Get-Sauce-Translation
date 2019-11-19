@@ -32,6 +32,10 @@
         "unsupported": [
             "Nepodporovaný vstup",
             "Nemožno získať žiadnu adresu URL alebo obrázok zo vstupu ({{input_types}}).\nMusí to byť adresa URL, text, ktorý obsahuje adresu URL, obrázok alebo fotografie."
+        ],
+        "baidu_404": [
+            "Neplatná odpoveď",
+            "Baidu vrátil neplatnú odpoveď.\nZdá sa, že táto adresa URL je v Číne zablokovaná."
         ]
     },
     "settings": {

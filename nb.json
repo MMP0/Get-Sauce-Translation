@@ -32,6 +32,10 @@
         "unsupported": [
             "Ikke-støttet innspill",
             "Kan ikke hente URL eller bilde fra input ({{input_types}}).\nDet må være URL, tekst som inneholder URL, bilde eller foto."
+        ],
+        "baidu_404": [
+            "Ugyldig svar",
+            "Baidu returnerte et ugyldig svar.\nURL-en ser ut til å være blokkert i Kina."
         ]
     },
     "settings": {

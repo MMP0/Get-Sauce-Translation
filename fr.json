@@ -32,6 +32,10 @@
         "unsupported": [
             "Entrée non prise en charge",
             "Impossible d’obtenir des URL ou des images de l’entrée ({{input_types}}).\nIl doit s’agir d’URL, de textes contenant une URL, d’images ou de fichiers multimédia photo."
+        ],
+        "baidu_404": [
+            "Réponse invalide",
+            "Baidu a renvoyé une réponse invalide.\nL’URL semble être bloqué en Chine."
         ]
     },
     "settings": {

@@ -32,6 +32,10 @@
         "unsupported": [
             "Entrada não suportada",
             "Não foi possível obter qualquer URL ou imagem da entrada ({{input_types}}).\nDeve ser URL, texto que contém URL, imagem ou mídia fotográfica."
+        ],
+        "baidu_404": [
+            "Resposta inválida",
+            "Baidu retornou uma resposta inválida.\nO URL parece estar bloqueado na China."
         ]
     },
     "settings": {

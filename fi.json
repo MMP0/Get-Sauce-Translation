@@ -32,6 +32,10 @@
         "unsupported": [
             "Ei tuettu syöttö",
             "Mitään URL-osoitetta tai kuvaa ei saada syötteestä ({{input_types}}).\nSen on oltava URL, teksti, joka sisältää URL-, kuva- tai valokuvavälineen."
+        ],
+        "baidu_404": [
+            "Virheellinen vastaus",
+            "Baidu palautti virheellisen vastauksen.\nTämä URL näyttää olevan estetty Kiinassa."
         ]
     },
     "settings": {

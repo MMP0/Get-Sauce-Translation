@@ -32,6 +32,10 @@
         "unsupported": [
             "Nieobsługiwane dane wejściowe",
             "Nie można uzyskać żadnego adresu URL ani obrazu z danych wejściowych ({{input_types}}).\nMusi to być adres URL, tekst zawierający adres URL, obraz lub nośnik fotograficzny."
+        ],
+        "baidu_404": [
+            "Niepoprawna odpowiedź",
+            "Baidu zwrócił nieprawidłową odpowiedź.\nTen adres URL wydaje się być zablokowany w Chinach."
         ]
     },
     "settings": {

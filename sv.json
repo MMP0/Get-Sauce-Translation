@@ -32,6 +32,10 @@
         "unsupported": [
             "Ej stöds inmatning",
             "Det går inte att hämta någon URL eller bild från input ({{input_types}}).\nDet måste vara URL, text som innehåller URL, bild eller fotomedia."
+        ],
+        "baidu_404": [
+            "Ogiltigt svar",
+            "Baidu returnerade ett ogiltigt svar.\nDenna URL verkar vara blockerad i Kina."
         ]
     },
     "settings": {

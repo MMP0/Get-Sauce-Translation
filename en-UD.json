@@ -29,10 +29,14 @@
         "sep": " ʻ",
         "back_choose": "ǝɓɐɯI ǝsooɥꓛ oʇ ʞɔɐꓭ",
         "choose_new": "ǝɓɐɯI ʍǝN ǝsooɥꓛ",
-        "mobile_dat": "·ɐʇɐp ǝๅᴉqoɯ uo ʎๅʇuǝɹɹnɔ uo ǝɹˌno⅄",
+        "mobile_dat": "·ɐʇɐp ǝๅᴉqoɯ uo ʎๅʇuǝɹɹnɔ ǝɹˌno⅄",
         "unsupported": [
             "ʇnduI pǝʇɹoddnsuꓵ",
             "·ɐᴉpǝɯ oʇoɥꓒ ɹo ʻǝɓɐɯI ʻꓶꓤꓵ suᴉɐʇuoɔ ʇɐɥʇ ʇxǝꓕ ʻꓶꓤꓵ ǝq ʇsnɯ ʇI\n·({{input_types}}) ʇnduᴉ ɯoɹɟ ǝɓɐɯI ɹo ꓶꓤꓵ ʎuɐ ʇǝɓ oʇ ǝๅqɐuꓵ"
+        ],
+        "baidu_404": [
+            "ǝsuodsǝꓤ pᴉๅɐʌuI",
+            "·ɐuᴉɥꓛ uᴉ pǝʞɔoๅq ǝq oʇ sɹɐǝddɐ ꓶꓤꓵ ǝɥꓕ\n·ǝsuodsǝɹ pᴉๅɐʌuᴉ uɐ pǝuɹnʇǝɹ npᴉɐꓭ"
         ]
     },
     "settings": {

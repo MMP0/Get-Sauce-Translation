@@ -32,6 +32,10 @@
         "unsupported": [
             "Nicht unterstützte Eingabe",
             "URL oder Bild kann nicht von der Eingabe ({{input_types}}) abgerufen werden.\nEs muss sich um URL, Text mit URL, Bild oder Fotomedien handeln."
+        ],
+        "baidu_404": [
+            "Ungültige Antwort",
+            "Baidu hat eine ungültige Antwort zurückgegeben.\nDie URL scheint in China gesperrt zu sein."
         ]
     },
     "settings": {
