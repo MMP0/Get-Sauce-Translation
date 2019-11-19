@@ -32,6 +32,10 @@
         "unsupported": [
             "Nem támogatott bemenet",
             "Nem sikerült beolvasni URL-t vagy képet a bemenetről ({{input_types}}).\nEnnek URL-nek, szövegnek, amely URL-t, képet vagy fotóhordozót tartalmaz."
+        ],
+        "baidu_404": [
+            "Érvénytelen válasz",
+            "Baidu érvénytelen választ adott vissza.\nÚgy tűnik, hogy Kína nem blokkolja az URL-t."
         ]
     },
     "settings": {
@@ -52,10 +56,6 @@
         ],
         "debug": [
             "Debug"
-        ],
-        "baidu_404": [
-            "Érvénytelen válasz",
-            "Baidu érvénytelen választ adott vissza.\nÚgy tűnik, hogy Kína nem blokkolja az URL-t."
         ]
     },
     "about": {
