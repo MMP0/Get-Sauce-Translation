@@ -32,6 +32,10 @@
         "unsupported": [
             "Đầu vào không được hỗ trợ",
             "Không thể nhận bất kỳ URL hoặc hình ảnh nào từ đầu vào ({{input_types}}).\nNó phải là URL, Văn bản chứa URL, Hình ảnh hoặc Phương tiện hình ảnh."
+        ],
+        "baidu_404": [
+            "Phản hồi không hợp lệ",
+            "Baidu đã trả lại một phản hồi không hợp lệ.\nURL này dường như bị chặn ở Trung Quốc."
         ]
     },
     "settings": {
