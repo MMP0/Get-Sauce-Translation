@@ -77,6 +77,6 @@
         "up_to_date": "您的版本是最新的。",
         "available": "有更新可用。",
         "network": "無法檢查更新。\n請檢查網絡連接並重試。",
-        "server": "檢查更新失敗。\n請稍後再試。\n\n如果同樣的錯誤重複出現，請給我迴響。\n可以在 {{settings}} → {{debug}} → {{latest_response}} 檢查服務器響應。"
+        "server": "檢查更新失敗。\n請稍後再試。\n\n如果同樣的錯誤重複出現，請給我迴響。\n可以在 {{settings}} → {{debug}} → {{latest_response}} 檢查服務器回應。"
     }
 }
