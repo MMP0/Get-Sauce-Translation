@@ -29,9 +29,14 @@
         "back_choose": "Voltar para Escolha imagem",
         "choose_new": "Escolha nova imagem",
         "mobile_dat": "Você está atualmente em dados móveis.",
+        "offline": "Seu {{device}} está offline no momento.",
         "unsupported": [
             "Entrada não suportada",
             "Não foi possível obter qualquer URL ou imagem da entrada ({{input_types}}).\nDeve ser URL, texto que contém URL, imagem ou mídia fotográfica."
+        ],
+        "baidu_err": [
+            "Erro de pesquisa",
+            "Baidu retornou o status {{status}}:"
         ],
         "baidu_404": [
             "Resposta inválida",
