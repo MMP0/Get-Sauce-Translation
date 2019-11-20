@@ -29,9 +29,14 @@
         "back_choose": "Tillbaka till Välj bild",
         "choose_new": "Välj ny bild",
         "mobile_dat": "Du är för närvarande på mobildata.",
+        "offline": "Din {{device}} är för närvarande offline.",
         "unsupported": [
             "Ej stöds inmatning",
             "Det går inte att hämta någon URL eller bild från input ({{input_types}}).\nDet måste vara URL, text som innehåller URL, bild eller fotomedia."
+        ],
+        "baidu_err": [
+            "Sökfel",
+            "Baidu returnerade status {{status}}:"
         ],
         "baidu_404": [
             "Ogiltigt svar",

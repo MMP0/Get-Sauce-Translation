@@ -29,9 +29,14 @@
         "back_choose": "Kembali ke Pilih Gambar",
         "choose_new": "Pilih Gambar Baru",
         "mobile_dat": "Anda sedang menggunakan data seluler.",
+        "offline": "{{device}} Anda sedang luring.",
         "unsupported": [
             "Input tidak didukung",
             "Tidak dapat memperoleh URL atau Gambar apa pun dari input ({{input_types}}).\nItu harus URL, Teks yang berisi URL, Gambar, atau media Foto."
+        ],
+        "baidu_err": [
+            "Kesalahan Pencarian",
+            "Baidu mengembalikan status {{status}}:"
         ],
         "baidu_404": [
             "Respons Tidak Valid",
