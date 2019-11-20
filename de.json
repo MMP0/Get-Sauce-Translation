@@ -29,9 +29,14 @@
         "back_choose": "Zurück zum Bild auswählen",
         "choose_new": "Neues Bild auswählen",
         "mobile_dat": "Sie sind derzeit auf mobilen Daten.",
+        "offline": "Ihr {{device}} ist zurzeit offline.",
         "unsupported": [
             "Nicht unterstützte Eingabe",
             "URL oder Bild kann nicht von der Eingabe ({{input_types}}) abgerufen werden.\nEs muss sich um URL, Text mit URL, Bild oder Fotomedien handeln."
+        ],
+        "baidu_err": [
+            "Suchfehler",
+            "Baidu hat den Status {{status}} zurückgegeben:"
         ],
         "baidu_404": [
             "Ungültige Antwort",
