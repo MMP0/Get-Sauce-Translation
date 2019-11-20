@@ -29,9 +29,14 @@
         "back_choose": "Back to Choose Image",
         "choose_new": "Choose New Image",
         "mobile_dat": "You’re currently on mobile data.",
+        "offline": "Your {{device}} is currently offline.",
         "unsupported": [
             "Unsupported Input",
             "Unable to get any URL or Image from input ({{input_types}}).\nIt must be URL, Text that contains URL, Image, or Photo media."
+        ],
+        "baidu_err": [
+            "Search Error",
+            "Baidu returned status {{status}}:"
         ],
         "baidu_404": [
             "Invalid Response",
