@@ -29,9 +29,14 @@
         "back_choose": "返回选取图像",
         "choose_new": "选取新图像",
         "mobile_dat": "现在正在使用移动数据。",
+        "offline": "您的{{device}}当前处于离线状态。",
         "unsupported": [
             "不支持的输入",
             "无法从输入 ({{input_types}}) 获取任何URL或图像。\n必须是URL、包含URL的文本、图像或照片媒体。"
+        ],
+        "baidu_err": [
+            "搜索错误",
+            "百度返回状态{{status}}:"
         ],
         "baidu_404": [
             "无效的响应",
