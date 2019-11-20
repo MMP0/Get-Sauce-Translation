@@ -29,9 +29,14 @@
         "back_choose": "Terug naar Afbeelding kiezen",
         "choose_new": "Kies nieuwe afbeelding",
         "mobile_dat": "U gebruikt momenteel mobiele gegevens.",
+        "offline": "Je {{device}} is momenteel offline.",
         "unsupported": [
             "Niet-ondersteunde invoer",
             "Kan geen URL of afbeelding ophalen uit invoer ({{input_types}}).\nHet moet een URL, tekst met URL, afbeelding of fotomedia zijn."
+        ],
+        "baidu_err": [
+            "Zoekfout",
+            "Baidu gaf status {{status}} terug:"
         ],
         "baidu_404": [
             "Ongeldige reactie",
