@@ -15,7 +15,8 @@
         "camera": "Ota valokuva",
         "photo_lib": "Valokuvakirjasto",
         "files": "Selaa tiedostoja",
-        "clipboard": "Leikepöydälle"
+        "clipboard": "Leikepöydälle",
+        "latest": "Käytä uusinta valokuvaa"
     },
     "main": {
         "manga": "Manga",
