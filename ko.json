@@ -15,7 +15,8 @@
         "camera": "사진을 찍다",
         "photo_lib": "사진 보관함에",
         "files": "파일 찾아보기",
-        "clipboard": "클립 보드"
+        "clipboard": "클립 보드",
+        "latest": "최신 사진 사용"
     },
     "main": {
         "manga": "만화",
