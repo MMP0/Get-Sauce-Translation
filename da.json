@@ -15,7 +15,8 @@
         "camera": "Tag et billede",
         "photo_lib": "Fotobibliotek",
         "files": "Gennemse filer",
-        "clipboard": "Udklipsholder"
+        "clipboard": "Udklipsholder",
+        "latest": "Brug det seneste foto"
     },
     "main": {
         "manga": "Manga",
