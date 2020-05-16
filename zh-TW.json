@@ -15,14 +15,15 @@
         "camera": "拍照",
         "photo_lib": "照片圖庫",
         "files": "瀏覽檔案",
-        "clipboard": "剪貼板"
+        "clipboard": "剪貼板",
+        "latest": "使用最新照片"
     },
     "main": {
         "manga": "漫畫",
         "anime": "動畫",
         "hentai": "十八禁",
         "h_anime": "十八禁動畫",
-        "artworks": "動畫･十八禁 插圖",
+        "artworks": "動畫･十八禁插圖",
         "cgs": "CG",
         "general": "一般",
         "sep": "，",
