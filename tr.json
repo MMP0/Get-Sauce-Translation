@@ -15,7 +15,8 @@
         "camera": "Fotoğraf Çek",
         "photo_lib": "Fotoğraf Kütüphanesi",
         "files": "Dosyalara Göz At",
-        "clipboard": "Pano"
+        "clipboard": "Pano",
+        "latest": "Son Fotoğrafı Kullan"
     },
     "main": {
         "manga": "Manga",
