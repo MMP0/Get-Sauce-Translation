@@ -15,7 +15,8 @@
         "camera": "Tomar foto",
         "photo_lib": "Biblioteca de fotos",
         "files": "Explorar archivos",
-        "clipboard": "Portapapeles"
+        "clipboard": "Portapapeles",
+        "latest": "Usar la última foto"
     },
     "main": {
         "manga": "Manga",
