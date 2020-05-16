@@ -15,7 +15,8 @@
         "camera": "Tirar foto",
         "photo_lib": "Biblioteca de fotos",
         "files": "Procurar arquivos",
-        "clipboard": "Prancheta"
+        "clipboard": "Prancheta",
+        "latest": "Usar a foto mais recente"
     },
     "main": {
         "manga": "Manga",

@@ -15,7 +15,8 @@
         "camera": "Foto nemen",
         "photo_lib": "Fotogalerij",
         "files": "Bestanden doorbladeren",
-        "clipboard": "Klembord"
+        "clipboard": "Klembord",
+        "latest": "Gebruik nieuwste foto"
     },
     "main": {
         "manga": "Manga",

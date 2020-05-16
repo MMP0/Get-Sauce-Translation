@@ -15,14 +15,15 @@
         "camera": "写真を撮る",
         "photo_lib": "フォトライブラリ",
         "files": "ファイルをブラウズ",
-        "clipboard": "クリップボード"
+        "clipboard": "クリップボード",
+        "latest": "最新の写真を使用"
     },
     "main": {
         "manga": "漫画",
         "anime": "アニメ",
         "hentai": "二次エロ",
         "h_anime": "エロアニメ",
-        "artworks": "アニメ・えっち イラスト",
+        "artworks": "アニメ・えっちイラスト",
         "cgs": "CG",
         "general": "全般",
         "sep": "、",

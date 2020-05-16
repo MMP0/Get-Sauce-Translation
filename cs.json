@@ -15,7 +15,8 @@
         "camera": "Vyfotit",
         "photo_lib": "Knihovna fotografií",
         "files": "Procházet soubory",
-        "clipboard": "Schránka"
+        "clipboard": "Schránka",
+        "latest": "Použít nejnovější fotografii"
     },
     "main": {
         "manga": "Manga",

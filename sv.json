@@ -15,7 +15,8 @@
         "camera": "Ta ett foto",
         "photo_lib": "Fotobibliotek",
         "files": "Bläddra i filer",
-        "clipboard": "Urklipp"
+        "clipboard": "Urklipp",
+        "latest": "Använd senaste fotot"
     },
     "main": {
         "manga": "Manga",

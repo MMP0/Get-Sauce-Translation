@@ -15,7 +15,8 @@
         "camera": "Uslikaj",
         "photo_lib": "Biblioteka fotografija",
         "files": "Pregledavanje datoteka",
-        "clipboard": "Međuspremnik"
+        "clipboard": "Međuspremnik",
+        "latest": "Koristite najnoviju fotografiju"
     },
     "main": {
         "manga": "Manga",

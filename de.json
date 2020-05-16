@@ -15,7 +15,8 @@
         "camera": "Foto aufnehmen",
         "photo_lib": "Fotobibliothek",
         "files": "Dateien durchsuchen",
-        "clipboard": "Zwischenablage"
+        "clipboard": "Zwischenablage",
+        "latest": "Verwenden Sie das neueste Foto"
     },
     "main": {
         "manga": "Manga",

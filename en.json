@@ -15,7 +15,8 @@
         "camera": "Take Photo",
         "photo_lib": "Photo Library",
         "files": "Browse Files",
-        "clipboard": "Clipboard"
+        "clipboard": "Clipboard",
+        "latest": "Use Latest Photo"
     },
     "main": {
         "manga": "Manga",

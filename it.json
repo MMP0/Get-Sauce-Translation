@@ -15,7 +15,8 @@
         "camera": "Scatta foto",
         "photo_lib": "Libreria foto",
         "files": "Sfoglia i file",
-        "clipboard": "Appunti"
+        "clipboard": "Appunti",
+        "latest": "Usa foto più recente"
     },
     "main": {
         "manga": "Manga",
