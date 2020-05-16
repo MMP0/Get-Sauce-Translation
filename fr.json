@@ -15,7 +15,8 @@
         "camera": "Prendre photo",
         "photo_lib": "Bibliothèque de photos",
         "files": "Parcourir les fichiers",
-        "clipboard": "Presse-papiers"
+        "clipboard": "Presse-papiers",
+        "latest": "Utiliser la dernière photo"
     },
     "main": {
         "manga": "Manga",
