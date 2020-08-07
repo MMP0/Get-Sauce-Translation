@@ -7,8 +7,8 @@
     },
     "common": {
         "settings": "설정",
-        "back": "돌아 가기",
-        "forward": "돌아 가기",
+        "back": "뒤로 가기",
+        "forward": "앞으로 가기",
         "exit": "종료"
     },
     "start": {

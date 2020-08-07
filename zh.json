@@ -7,8 +7,8 @@
     },
     "common": {
         "settings": "设置",
-        "back": "返回",
-        "forward": "向前",
+        "back": "后退",
+        "forward": "前进",
         "exit": "退出"
     },
     "start": {
