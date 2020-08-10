@@ -56,6 +56,10 @@
             "Frissítések keresése",
             "Hálózati kapcsolatot igényel."
         ],
+        "customize": [
+            "Testreszab",
+            "A keresőmotorok megjelenítése / elrejtése."
+        ],
         "lang": [
             "Nyelv",
             "Cserélje ki a nyelvet."
