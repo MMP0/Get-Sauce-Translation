@@ -56,6 +56,10 @@
             "Vérifier les mises à jour",
             "Nécessite une connexion réseau."
         ],
+        "customize": [
+            "Personnaliser",
+            "Afficher / masquer les moteurs de recherche."
+        ],
         "lang": [
             "Langue",
             "Changer la langue."
