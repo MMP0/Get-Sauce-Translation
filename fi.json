@@ -56,6 +56,10 @@
             "Tarkista päivitykset",
             "Edellyttää verkkoyhteyttä."
         ],
+        "customize": [
+            "Muokkaa",
+            "Näytä / piilota hakukoneet."
+        ],
         "lang": [
             "Kieli",
             "Vaihda kieli."
