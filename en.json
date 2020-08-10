@@ -56,6 +56,10 @@
             "Check for Updates",
             "Requires network connection."
         ],
+        "customize": [
+            "Customize",
+            "Show/Hide the search engines."
+        ],
         "lang": [
             "Language",
             "Change the language."
