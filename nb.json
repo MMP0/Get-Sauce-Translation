@@ -56,6 +56,10 @@
             "Se etter oppdateringer",
             "Krever nettverkstilkobling."
         ],
+        "customize": [
+            "Tilpass",
+            "Vis / skjul søkemotorene."
+        ],
         "lang": [
             "Språk",
             "Endre språk."
