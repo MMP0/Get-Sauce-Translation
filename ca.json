@@ -56,6 +56,10 @@
             "Buscar actualitzacions",
             "Requereix connexió de xarxa."
         ],
+        "customize": [
+            "Personalitzar",
+            "Mostra / Amaga els motors de cerca."
+        ],
         "lang": [
             "Idioma",
             "Canviar l’idioma."

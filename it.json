@@ -56,6 +56,10 @@
             "Controlla aggiornamenti",
             "Richiede connessione di rete."
         ],
+        "customize": [
+            "personalizzare",
+            "Mostra / Nascondi i motori di ricerca."
+        ],
         "lang": [
             "Lingua",
             "Cambia la lingua."

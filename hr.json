@@ -56,6 +56,10 @@
             "Provjerite ažuriranja",
             "Zahtijeva mrežnu vezu."
         ],
+        "customize": [
+            "Prilagodba",
+            "Prikaži / sakrij tražilice."
+        ],
         "lang": [
             "Jezik",
             "Promijenite jezik."

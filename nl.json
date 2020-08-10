@@ -56,6 +56,10 @@
             "Controleer op updates",
             "Vereist netwerkverbinding."
         ],
+        "customize": [
+            "Aanpassen",
+            "Toon / verberg de zoekmachines."
+        ],
         "lang": [
             "Taal",
             "Verander de taal."

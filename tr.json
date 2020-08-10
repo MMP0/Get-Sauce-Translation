@@ -56,6 +56,10 @@
             "Güncellemeleri Kontrol",
             "Ağ bağlantısı gerektirir."
         ],
+        "customize": [
+            "Özelleştirmek",
+            "Arama motorlarını göster / gizle."
+        ],
         "lang": [
             "Dil",
             "Dili değiştir."

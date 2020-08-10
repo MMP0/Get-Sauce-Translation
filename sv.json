@@ -56,6 +56,10 @@
             "Sök efter uppdateringar",
             "Kräver nätverksanslutning."
         ],
+        "customize": [
+            "Anpassa",
+            "Visa / dölj sökmotorerna."
+        ],
         "lang": [
             "Språk",
             "Ändra språket."

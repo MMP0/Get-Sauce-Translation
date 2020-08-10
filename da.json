@@ -56,6 +56,10 @@
             "Søg efter opdateringer",
             "Kræver netværksforbindelse."
         ],
+        "customize": [
+            "Tilpas",
+            "Vis / skjul søgemaskinerne."
+        ],
         "lang": [
             "Sprog",
             "Skift sprog."

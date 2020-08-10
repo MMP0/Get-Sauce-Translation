@@ -56,6 +56,10 @@
             "Skontroluj aktualizácie",
             "Vyžaduje sa sieťové pripojenie."
         ],
+        "customize": [
+            "upraviť",
+            "Zobraziť / skryť vyhľadávacie nástroje."
+        ],
         "lang": [
             "Jazyk",
             "Zmeňte jazyk."

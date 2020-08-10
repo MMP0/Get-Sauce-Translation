@@ -56,6 +56,10 @@
             "Verifică pentru actualizări",
             "Necesită conexiune la rețea."
         ],
+        "customize": [
+            "Personalizează",
+            "Afișați / Ascundeți motoarele de căutare."
+        ],
         "lang": [
             "Limba",
             "Schimbați limba."
