@@ -56,6 +56,10 @@
             "Buscar actualizaciones",
             "Requiere conexión de red."
         ],
+        "customize": [
+            "Personalizar",
+            "Mostrar / Ocultar los motores de búsqueda."
+        ],
         "lang": [
             "Idioma",
             "Cambiar el idioma."
