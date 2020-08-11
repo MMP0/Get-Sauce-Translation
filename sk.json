@@ -29,8 +29,6 @@
         "sep": ", ",
         "back_choose": "Späť na Výber obrázka",
         "choose_new": "Vyberte nový obrázok",
-        "mobile_dat": "Momentálne máte zapnuté mobilné dáta.",
-        "offline": "Váš {{device}} je momentálne offline.",
         "unsupported": [
             "Nepodporovaný vstup",
             "Nemožno získať žiadnu adresu URL alebo obrázok zo vstupu ({{input_types}}).\nMusí to byť adresa URL, text, ktorý obsahuje adresu URL, obrázok alebo fotografie."
