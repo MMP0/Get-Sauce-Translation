@@ -29,8 +29,6 @@
         "sep": ", ",
         "back_choose": "Resim Seçmeye Geri Dön",
         "choose_new": "Yeni Resim Seç",
-        "mobile_dat": "Şu anda mobil veride.",
-        "offline": "{{device}}’unuz şu anda çevrimdışı.",
         "unsupported": [
             "Desteklenmeyen Giriş",
             "Girişten ({{input_types}}) URL veya Resim alınamıyor.\nURL, URL içeren URL, Resim veya Fotoğraf medyası olmalıdır."
