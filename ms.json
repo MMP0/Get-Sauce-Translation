@@ -29,8 +29,6 @@
         "sep": ", ",
         "back_choose": "Kembali ke Pilih Imej",
         "choose_new": "Pilih Imej Baru",
-        "mobile_dat": "Anda kini sedang menggunakan data mudah alih.",
-        "offline": "{{device}} anda sedang di luar talian.",
         "unsupported": [
             "Input tidak disokong",
             "Tidak dapat mendapatkan sebarang URL atau Imej dari input ({{input_types}}).\nIa mestilah URL, Teks yang mengandungi URL, Imej, atau media Foto."
