@@ -29,8 +29,6 @@
         "sep": ", ",
         "back_choose": "Torna a Scegli immagine",
         "choose_new": "Scegli una nuova immagine",
-        "mobile_dat": "Attualmente sei su dati mobili.",
-        "offline": "Il tuo {{device}} è attualmente offline.",
         "unsupported": [
             "Input non supportato",
             "Impossibile ottenere qualsiasi URL o immagine dall’input ({{input_types}}).\nDeve essere un URL, un testo contenente URL, un’immagine o un supporto fotografico."

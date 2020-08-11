@@ -29,8 +29,6 @@
         "sep": ", ",
         "back_choose": "Natrag za Odabir slike",
         "choose_new": "Odaberite novu sliku",
-        "mobile_dat": "Trenutno ste na mobilnim podacima.",
-        "offline": "Vaš je {{device}} trenutno offline.",
         "unsupported": [
             "Nepodržani unos",
             "Nije moguće dobiti bilo koji URL ili sliku iz unosa ({{input_types}}).\nTo mora biti URL, tekst koji sadrži URL, sliku ili foto medij."

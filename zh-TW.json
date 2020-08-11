@@ -29,8 +29,6 @@
         "sep": "，",
         "back_choose": "返回選擇影像",
         "choose_new": "選擇新影像",
-        "mobile_dat": "現在正在使用移動數據。",
-        "offline": "您的{{device}}當前處於離線狀態。",
         "unsupported": [
             "不支持的輸入",
             "無法從輸入 ({{input_types}}) 獲取任何URL或影像。\n必須是URL、包含URL的文字、影像或照片媒體。"

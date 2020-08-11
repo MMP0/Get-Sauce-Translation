@@ -29,8 +29,6 @@
         "sep": ", ",
         "back_choose": "Torna a Escollir la imatge",
         "choose_new": "Trieu imatge nova",
-        "mobile_dat": "Actualment es troba en dades mòbils.",
-        "offline": "El teu {{device}} actualment està fora de línia.",
         "unsupported": [
             "Entrada no compatible",
             "No es pot obtenir cap URL o imatge des de l’entrada ({{input_types}}).\nHa de ser URL, text que contingui URL, imatge o suports fotogràfics."

@@ -29,8 +29,6 @@
         "sep": ", ",
         "back_choose": "Retour à Choisir une image",
         "choose_new": "Choisir une nouvelle image",
-        "mobile_dat": "Vous êtes sur les données mobiles actuellement.",
-        "offline": "Votre {{device}} est actuellement hors ligne.",
         "unsupported": [
             "Entrée non prise en charge",
             "Impossible d’obtenir des URL ou des images de l’entrée ({{input_types}}).\nIl doit s’agir d’URL, de textes contenant une URL, d’images ou de fichiers multimédia photo."
