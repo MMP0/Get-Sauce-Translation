@@ -63,8 +63,8 @@
             "ǝɓɐnɓuɐꓶ",
             "·ǝɓɐnɓuɐๅ ǝɥʇ ǝɓuɐɥꓛ"
         ],
-        "debug": [
-            "ɓnqǝꓷ"
+        "advanced": [
+            "suoᴉʇdO pǝɔuɐʌpⱯ"
         ]
     },
     "about": {
@@ -82,5 +82,15 @@
         "available": "·ǝๅqɐๅᴉɐʌɐ sᴉ ǝʇɐpdn uⱯ",
         "network": "·uᴉɐɓɐ ʎɹʇ puɐ uoᴉʇɔǝuuoɔ ʞɹoʍʇǝu ɹnoʎ ʞɔǝɥɔ ǝsɐǝๅꓒ\n·sǝʇɐpdn ɹoɟ ʞɔǝɥɔ oʇ ǝๅqɐuꓵ",
         "server": "·{{latest_response}} ← {{debug}} ← {{settings}} ʇɐ ǝsuodsǝɹ ɹǝʌɹǝs ǝɥʇ ʞɔǝɥɔ uɐɔ no⅄\n·ʞɔɐqpǝǝɟ ǝɯ puǝs ǝsɐǝๅd ʻʎๅpǝʇɐǝdǝɹ sɹnɔɔo ɹoɹɹǝ ǝɯɐs ǝɥʇ ɟI\n\n·ɹǝʇɐๅ uᴉɐɓɐ ʎɹʇ ǝsɐǝๅꓒ\n·sǝʇɐpdn ɹoɟ ʞɔǝɥɔ oʇ pǝๅᴉɐꓞ"
+    },
+    "advanced": {
+        "enabled": "pǝๅqɐuƎ",
+        "disabled": "pǝๅqɐsᴉꓷ",
+        "delete_imgur": [
+            "ʇᴉxƎ uo sǝɓɐɯI ɹnɓɯI ǝʇǝๅǝꓷ"
+        ],
+        "debug": [
+            "ɓnqǝꓷ"
+        ]
     }
 }
