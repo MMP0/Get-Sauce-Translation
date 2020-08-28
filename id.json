@@ -62,8 +62,8 @@
             "Bahasa",
             "Ubah bahasa."
         ],
-        "debug": [
-            "Debug"
+        "advanced": [
+            "Opsi Lanjutan"
         ]
     },
     "about": {
@@ -81,5 +81,15 @@
         "available": "Pembaruan tersedia.",
         "network": "Tidak dapat memeriksa pembaruan.\nSilakan periksa koneksi jaringan Anda dan coba lagi.",
         "server": "Gagal memeriksa pembaruan.\nSilakan coba lagi nanti.\n\nJika kesalahan yang sama terjadi berulang kali, kirimkan saya umpan balik.\nAnda dapat memeriksa respons server di {{settings}} → {{debug}} → {{latest_response}}."
+    },
+    "advanced": {
+        "enabled": "Diaktifkan",
+        "disabled": "Dinonaktifkan",
+        "delete_imgur": [
+            "Hapus Gambar Imgur saat Keluar"
+        ],
+        "debug": [
+            "Debug"
+        ]
     }
 }
