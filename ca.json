@@ -62,8 +62,8 @@
             "Idioma",
             "Canviar l’idioma."
         ],
-        "debug": [
-            "Depuració"
+        "advanced": [
+            "Opcions avançades"
         ]
     },
     "about": {
@@ -81,5 +81,15 @@
         "available": "Una actualització està disponible.",
         "network": "No es pot comprovar si hi ha actualitzacions.\nComproveu la connexió de xarxa i torneu-ho a provar.",
         "server": "No s’ha pogut comprovar si hi ha actualitzacions.\nSi us plau, intenta-ho més tard.\n\nSi es produeix el mateix error repetidament, envieu-me comentaris.\nPodeu consultar la resposta del servidor a {{settings}} → {{debug}} → {{latest_response}}."
+    },
+    "advanced": {
+        "enabled": "Habilitat",
+        "disabled": "Desactivat",
+        "delete_imgur": [
+            "Suprimeix Imgur Imatges a la sortida"
+        ],
+        "debug": [
+            "Depuració"
+        ]
     }
 }
