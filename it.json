@@ -62,8 +62,8 @@
             "Lingua",
             "Cambia la lingua."
         ],
-        "debug": [
-            "Debug"
+        "advanced": [
+            "Opzioni avanzate"
         ]
     },
     "about": {
@@ -81,5 +81,15 @@
         "available": "Un aggiornamento è disponibile.",
         "network": "Impossibile controllare gli aggiornamenti.\nControlla la connessione di rete e riprova.",
         "server": "Impossibile controllare gli aggiornamenti.\nRiprova più tardi.\n\nSe lo stesso errore si verifica ripetutamente, per favore inviami un feedback.\nPuoi controllare la risposta al server su {{settings}} → {{debug}} → {{latest_response}}."
+    },
+    "advanced": {
+        "enabled": "Abilitato",
+        "disabled": "Disabilitato",
+        "delete_imgur": [
+            "Elimina le immagini Imgur all’uscita"
+        ],
+        "debug": [
+            "Debug"
+        ]
     }
 }
