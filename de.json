@@ -62,8 +62,8 @@
             "Sprache",
             "Sprache ändern."
         ],
-        "debug": [
-            "Debuggen"
+        "advanced": [
+            "Erweiterte Optionen"
         ]
     },
     "about": {
@@ -81,5 +81,15 @@
         "available": "Eine Aktualisierung ist verfügbar.",
         "network": "Aktualisierungen konnten nicht überprüft werden.\nBitte überprüfen Sie Ihre Netzwerkverbindung und versuchen Sie es erneut.",
         "server": "Fehler beim Überprüfen der Updates.\nBitte versuchen Sie es später erneut.\n\nWenn der gleiche Fehler wiederholt auftritt, senden Sie mir bitte Feedback.\nSie können die Serverantwort unter {{settings}} → {{debug}} → {{latest_response}} überprüfen."
+    },
+    "advanced": {
+        "enabled": "Aktiviert",
+        "disabled": "Deaktiviert",
+        "delete_imgur": [
+            "Löschen Sie Imgur-Bilder beim Beenden"
+        ],
+        "debug": [
+            "Debuggen"
+        ]
     }
 }
