@@ -62,8 +62,8 @@
             "Langue",
             "Changer la langue."
         ],
-        "debug": [
-            "Déboguer"
+        "advanced": [
+            "Options avancées"
         ]
     },
     "about": {
@@ -81,5 +81,15 @@
         "available": "Une mise à jour est disponible.",
         "network": "Impossible de vérifier les mises à jour.\nVeuillez vérifier votre connexion réseau et réessayer.",
         "server": "Échec de la recherche de mises à jour.\nVeuillez réessayer plus tard.\n\nSi la même erreur se répète, envoyez-moi vos commentaires.\nVous pouvez vérifier la réponse du serveur sur {{settings}} → {{debug}} → {{latest_response}}."
+    },
+    "advanced": {
+        "enabled": "Activée",
+        "disabled": "Désactivé",
+        "delete_imgur": [
+            "Supprimer les images Imgur à la sortie"
+        ],
+        "debug": [
+            "Déboguer"
+        ]
     }
 }
