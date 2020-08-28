@@ -62,8 +62,8 @@
             "Taal",
             "Verander de taal."
         ],
-        "debug": [
-            "Debug"
+        "advanced": [
+            "Geavanceerde opties"
         ]
     },
     "about": {
@@ -81,5 +81,15 @@
         "available": "Een update is beschikbaar.",
         "network": "Kan niet controleren op updates.\nControleer uw netwerkverbinding en probeer het opnieuw.",
         "server": "Kan niet controleren op updates.\nProbeer het later opnieuw.\n\nStuur mij feedback als dezelfde fout herhaaldelijk optreedt.\nU kunt de serverreactie controleren op {{settings}} → {{debug}} → {{latest_response}}."
+    },
+    "advanced": {
+        "enabled": "Ingeschakeld",
+        "disabled": "Uitgeschakeld",
+        "delete_imgur": [
+            "Verwijder Imgur-afbeeldingen bij afsluiten"
+        ],
+        "debug": [
+            "Debuggen"
+        ]
     }
 }
