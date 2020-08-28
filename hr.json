@@ -62,8 +62,8 @@
             "Jezik",
             "Promijenite jezik."
         ],
-        "debug": [
-            "Otkloniti neispravnost"
+        "advanced": [
+            "Napredne opcije"
         ]
     },
     "about": {
@@ -81,5 +81,15 @@
         "available": "Dostupno je ažuriranje.",
         "network": "Nije moguće provjeriti ažuriranja.\nProvjerite mrežnu vezu i pokušajte ponovo.",
         "server": "Provjera ažuriranja nije uspjela.\nMolimo pokušajte ponovo kasnije.\n\nAko se ista greška ponavlja više puta, pošaljite mi povratne informacije.\nOdgovor poslužitelja možete provjeriti na {{settings}} → {{debug}} → {{latest_response}}."
+    },
+    "advanced": {
+        "enabled": "Omogućeno",
+        "disabled": "Onemogućeno",
+        "delete_imgur": [
+            "Izbrišite Imgur slike na izlazu"
+        ],
+        "debug": [
+            "Otkloniti neispravnost"
+        ]
     }
 }
