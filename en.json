@@ -62,8 +62,8 @@
             "Language",
             "Change the language."
         ],
-        "debug": [
-            "Debug"
+        "advanced": [
+            "Advanced Options"
         ]
     },
     "about": {
@@ -81,5 +81,15 @@
         "available": "An update is available.",
         "network": "Unable to check for updates.\nPlease check your network connection and try again.",
         "server": "Failed to check for updates.\nPlease try again later.\n\nIf the same error occurs repeatedly, please send me feedback.\nYou can check the server response at {{settings}} → {{debug}} → {{latest_response}}."
+    },
+    "advanced": {
+        "enabled": "Enabled",
+        "disabled": "Disabled",
+        "delete_imgur": [
+            "Delete Imgur Images on Exit"
+        ],
+        "debug": [
+            "Debug"
+        ]
     }
 }
