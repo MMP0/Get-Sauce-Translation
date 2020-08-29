@@ -62,8 +62,8 @@
             "Dil",
             "Dili değiştir."
         ],
-        "debug": [
-            "Hata Ayıklama"
+        "advanced": [
+            "Gelişmiş seçenekler"
         ]
     },
     "about": {
@@ -81,5 +81,15 @@
         "available": "Bir güncelleme mevcut.",
         "network": "Güncellemeler kontrol edilemiyor.\nLütfen ağ bağlantınızı kontrol edip tekrar deneyin.",
         "server": "Güncellemeler kontrol edilemedi.\nLütfen daha sonra tekrar deneyiniz.\n\nAynı hata tekrar tekrar meydana gelirse, lütfen bana geri bildirim gönderin.\nSunucu yanıtını {{settings}} → {{debug}} → {{latest_response}} adresinden kontrol edebilirsiniz."
+    },
+    "advanced": {
+        "enabled": "Açık",
+        "disabled": "Kapalı",
+        "delete_imgur": [
+            "Çıkışta Imgur Görüntülerini Sil"
+        ],
+        "debug": [
+            "Hata Ayıklama"
+        ]
     }
 }
