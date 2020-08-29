@@ -83,8 +83,8 @@
         "server": "Nem sikerült ellenőrizni a frissítéseket.\nKérlek, próbáld újra később.\n\nHa ugyanaz a hiba ismétlődik, kérjük, küldjön visszajelzést.\nA kiszolgáló válaszát a {{settings}} → {{debug}} → {{latest_response}} pontokban ellenőrizheti."
     },
     "advanced": {
-        "enabled": "Engedélyezve",
-        "disabled": "Tiltva",
+        "enabled": "Be",
+        "disabled": "Ki",
         "delete_imgur": [
             "Törölje az Imgur képeket kilépéskor"
         ],
