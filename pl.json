@@ -62,8 +62,8 @@
             "Język",
             "Zmień język."
         ],
-        "debug": [
-            "Odpluskwić"
+        "advanced": [
+            "Zaawansowane opcje"
         ]
     },
     "about": {
@@ -81,5 +81,15 @@
         "available": "Aktualizacja jest dostępna.",
         "network": "Nie można sprawdzić aktualizacji.\nSprawdź połączenie sieciowe i spróbuj ponownie.",
         "server": "Nie udało się sprawdzić aktualizacji.\nSpróbuj ponownie później.\n\nJeśli ten sam błąd występuje wielokrotnie, proszę o przesłanie opinii.\nMożesz sprawdzić odpowiedź serwera na {{settings}} → {{debug}} → {{latest_response}}."
+    },
+    "advanced": {
+        "enabled": "Włączone",
+        "disabled": "Wyłączone",
+        "delete_imgur": [
+            "Usuń obrazy Imgur przy wyjściu"
+        ],
+        "debug": [
+            "Odpluskwić"
+        ]
     }
 }
