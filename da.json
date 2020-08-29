@@ -62,8 +62,8 @@
             "Sprog",
             "Skift sprog."
         ],
-        "debug": [
-            "Fejlfinde"
+        "advanced": [
+            "Avancerede indstillinger"
         ]
     },
     "about": {
@@ -81,5 +81,15 @@
         "available": "En opdatering er tilgængelig.",
         "network": "Kan ikke kontrollere for opdateringer.\nKontroller din netværksforbindelse, og prøv igen.",
         "server": "Kontrol af opdateringer kunne ikke kontrolleres.\nPrøv igen senere.\n\nHvis den samme fejl opstår gentagne gange, så send mig feedback.\nDu kan kontrollere serverresponset på {{settings}} → {{debug}} → {{latest_response}}."
+    },
+    "advanced": {
+        "enabled": "Aktiveret",
+        "disabled": "handicappet",
+        "delete_imgur": [
+            "Slet Imgur-billeder ved udgang"
+        ],
+        "debug": [
+            "Fejlfinde"
+        ]
     }
 }

@@ -62,8 +62,8 @@
             "Bahasa",
             "Tukar bahasa."
         ],
-        "debug": [
-            "Debug"
+        "advanced": [
+            "Pilihan Lanjutan"
         ]
     },
     "about": {
@@ -81,5 +81,15 @@
         "available": "Kemas kini tersedia.",
         "network": "Tidak dapat menyemak kemas kini.\nSila semak sambungan rangkaian anda dan cuba lagi.",
         "server": "Gagal menyemak kemas kini.\nSila cuba sebentar lagi.\n\nJika ralat yang sama berlaku berulang kali, sila hantar maklum balas kepada saya.\nAnda boleh menyemak respons pelayan di {{settings}} → {{debug}} → {{latest_response}}."
+    },
+    "advanced": {
+        "enabled": "Diaktifkan",
+        "disabled": "Dilumpuhkan",
+        "delete_imgur": [
+            "Padamkan Imgur Imej di Keluar"
+        ],
+        "debug": [
+            "Debug"
+        ]
     }
 }

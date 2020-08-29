@@ -62,8 +62,8 @@
             "語言",
             "改變語言。"
         ],
-        "debug": [
-            "調試"
+        "advanced": [
+            "高級選項"
         ]
     },
     "about": {
@@ -81,5 +81,15 @@
         "available": "有更新可用。",
         "network": "無法檢查更新。\n請檢查網絡連接並重試。",
         "server": "檢查更新失敗。\n請稍後再試。\n\n如果同樣的錯誤重複出現，請給我迴響。\n可以在 {{settings}} → {{debug}} → {{latest_response}} 檢查服務器響應。"
+    },
+    "advanced": {
+        "enabled": "啟用",
+        "disabled": "關閉",
+        "delete_imgur": [
+            "退出時删除Imgur影像"
+        ],
+        "debug": [
+            "調試"
+        ]
     }
 }

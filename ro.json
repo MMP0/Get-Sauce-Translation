@@ -62,8 +62,8 @@
             "Limba",
             "Schimbați limba."
         ],
-        "debug": [
-            "Debug"
+        "advanced": [
+            "Opțiuni avansate"
         ]
     },
     "about": {
@@ -81,5 +81,15 @@
         "available": "O actualizare este disponibilă.",
         "network": "Imposibil de verificat actualizările.\nVerificați conexiunea la rețea și încercați din nou.",
         "server": "Eroare la verificarea actualizărilor.\nVă rugăm să încercați din nou mai târziu.\n\nDacă aceeași eroare apare în mod repetat, vă rugăm să-mi trimiteți feedback.\nPuteți verifica răspunsul serverului la {{settings}} → {{debug}} → {{latest_response}}."
+    },
+    "advanced": {
+        "enabled": "Activat",
+        "disabled": "Dezactivat",
+        "delete_imgur": [
+            "Ștergeți imagini Imgur la ieșire"
+        ],
+        "debug": [
+            "Debug"
+        ]
     }
 }

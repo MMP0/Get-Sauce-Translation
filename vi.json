@@ -62,8 +62,8 @@
             "Ngôn ngữ",
             "Thay đổi ngôn ngữ."
         ],
-        "debug": [
-            "Gỡ lỗi"
+        "advanced": [
+            "Tùy chọn nâng cao"
         ]
     },
     "about": {
@@ -81,5 +81,15 @@
         "available": "Một bản cập nhật có sẵn.",
         "network": "Không thể kiểm tra cập nhật.\nVui lòng kiểm tra kết nối mạng của bạn và thử lại.",
         "server": "Không thể kiểm tra cập nhật.\nVui lòng thử lại sau.\n\nNếu lỗi tương tự xảy ra liên tục, xin vui lòng gửi cho tôi thông tin phản hồi.\nBạn có thể kiểm tra phản hồi của máy chủ tại {{settings}} → {{debug}} → {{latest_response}}."
+    },
+    "advanced": {
+        "enabled": "Đã bật",
+        "disabled": "Đã tắt",
+        "delete_imgur": [
+            "Xóa hình ảnh Imgur khi thoát"
+        ],
+        "debug": [
+            "Gỡ lỗi"
+        ]
     }
 }

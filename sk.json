@@ -62,8 +62,8 @@
             "Jazyk",
             "Zmeňte jazyk."
         ],
-        "debug": [
-            "Ladiť"
+        "advanced": [
+            "Pokročilé nastavenia"
         ]
     },
     "about": {
@@ -81,5 +81,15 @@
         "available": "K dispozícii je aktualizácia.",
         "network": "Nie je možné skontrolovať aktualizácie.\nSkontrolujte sieťové pripojenie a skúste to znova.",
         "server": "Nepodarilo sa skontrolovať aktualizácie.\nSkúste neskôr prosím.\n\nAk sa rovnaká chyba vyskytuje opakovane, pošlite mi spätnú väzbu.\nOdozvu servera môžete skontrolovať na {{settings}} → {{debug}} → {{latest_response}}."
+    },
+    "advanced": {
+        "enabled": "Aktivované",
+        "disabled": "Deaktivované",
+        "delete_imgur": [
+            "Odstrániť obrázky Imgur pri ukončení"
+        ],
+        "debug": [
+            "Ladiť"
+        ]
     }
 }

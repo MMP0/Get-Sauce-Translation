@@ -62,8 +62,8 @@
             "Idioma",
             "Cambiar el idioma."
         ],
-        "debug": [
-            "Depurar"
+        "advanced": [
+            "Opciones avanzadas"
         ]
     },
     "about": {
@@ -81,5 +81,15 @@
         "available": "Una actualización está disponible.",
         "network": "No se pueden verificar las actualizaciones.\nVerifique su conexión de red e intente nuevamente.",
         "server": "Error al buscar actualizaciones.\nPor favor, inténtelo de nuevo más tarde.\n\nSi el mismo error ocurre repetidamente, por favor envíeme sus comentarios.\nPuede verificar la respuesta del servidor en {{settings}} → {{debug}} → {{latest_response}}."
+    },
+    "advanced": {
+        "enabled": "Habilitado",
+        "disabled": "Deshabilitado",
+        "delete_imgur": [
+            "Eliminar imágenes de Imgur al salir"
+        ],
+        "debug": [
+            "Depurar"
+        ]
     }
 }

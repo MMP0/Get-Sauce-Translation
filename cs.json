@@ -62,8 +62,8 @@
             "Jazyka",
             "Změňte jazyk."
         ],
-        "debug": [
-            "Ladit"
+        "advanced": [
+            "Pokročilé možnosti"
         ]
     },
     "about": {
@@ -81,5 +81,15 @@
         "available": "K dispozici je aktualizace.",
         "network": "Nelze zkontrolovat aktualizace.\nZkontrolujte připojení k síti a akci opakujte.",
         "server": "Aktualizace se nezdařila.\nProsím zkuste to znovu později.\n\nPokud se stejná chyba objevuje opakovaně, pošlete mi prosím zpětnou vazbu.\nReakci serveru můžete zkontrolovat na {{settings}} → {{debug}} → {{latest_response}}."
+    },
+    "advanced": {
+        "enabled": "Povoleno",
+        "disabled": "Zakázáno",
+        "delete_imgur": [
+            "Odstranit obrázky Imgur při ukončení"
+        ],
+        "debug": [
+            "Ladit"
+        ]
     }
 }

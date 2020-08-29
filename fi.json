@@ -62,8 +62,8 @@
             "Kieli",
             "Vaihda kieli."
         ],
-        "debug": [
-            "Debug"
+        "advanced": [
+            "Edistyneet asetukset"
         ]
     },
     "about": {
@@ -81,5 +81,15 @@
         "available": "Päivitys on saatavana.",
         "network": "Päivityksiä ei voi tarkistaa.\nTarkista verkkoyhteys ja yritä uudelleen.",
         "server": "Päivitysten tarkistaminen epäonnistui.\nYritä uudelleen myöhemmin.\n\nJos sama virhe ilmenee toistuvasti, lähetä minulle palautetta.\nVoit tarkistaa palvelimen vastauksen kohdasta {{settings}} → {{debug}} → {{latest_response}}."
+    },
+    "advanced": {
+        "enabled": "Käytössä",
+        "disabled": "Ei käytössä",
+        "delete_imgur": [
+            "Poista Imgur-kuvat poistuessa"
+        ],
+        "debug": [
+            "Debug"
+        ]
     }
 }

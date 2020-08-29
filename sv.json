@@ -62,8 +62,8 @@
             "Språk",
             "Ändra språket."
         ],
-        "debug": [
-            "Debug"
+        "advanced": [
+            "Avancerade alternativ"
         ]
     },
     "about": {
@@ -81,5 +81,15 @@
         "available": "En uppdatering är tillgänglig.",
         "network": "Det går inte att leta efter uppdateringar.\nKontrollera din nätverksanslutning och försök igen.",
         "server": "Det gick inte att leta efter uppdateringar.\nVänligen försök igen senare.\n\nOm samma fel uppstår upprepade gånger, skicka mig feedback.\nDu kan kontrollera serverns svar på {{settings}} → {{debug}} → {{latest_response}}."
+    },
+    "advanced": {
+        "enabled": "Aktiverad",
+        "disabled": "Inaktiverad",
+        "delete_imgur": [
+            "Radera Imgur-bilder vid utgång"
+        ],
+        "debug": [
+            "Debug"
+        ]
     }
 }
