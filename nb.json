@@ -62,8 +62,8 @@
             "Språk",
             "Endre språk."
         ],
-        "debug": [
-            "Debug"
+        "advanced": [
+            "Avanserte alternativer"
         ]
     },
     "about": {
@@ -81,5 +81,15 @@
         "available": "En oppdatering er tilgjengelig.",
         "network": "Kan ikke se etter oppdateringer.\nKontroller nettverkstilkoblingen din og prøv igjen.",
         "server": "Kunne ikke se etter oppdateringer.\nPrøv igjen senere.\n\nHvis den samme feilen oppstår gjentatte ganger, kan du sende meg tilbakemelding.\nDu kan sjekke serverresponsen ved {{settings}} → {{debug}} → {{latest_response}}."
+    },
+    "advanced": {
+        "enabled": "Aktivert",
+        "disabled": "Deaktivert",
+        "delete_imgur": [
+            "Slett Imgur-bilder ved avkjørsel"
+        ],
+        "debug": [
+            "Feilsøk"
+        ]
     }
 }
