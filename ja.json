@@ -86,7 +86,7 @@
         "enabled": "有効",
         "disabled": "無効",
         "delete_imgur": [
-            "終了時にImgur画像を削除"
+            "終了時にImgurの画像を削除"
         ],
         "debug": [
             "デバッグ"
