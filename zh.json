@@ -21,9 +21,9 @@
     "main": {
         "manga": "漫画",
         "anime": "动画",
-        "hentai": "十八禁",
-        "h_anime": "十八禁动画",
-        "artworks": "动画･十八禁插画",
+        "hentai": "黄漫",
+        "h_anime": "黄色动画",
+        "artworks": "动画插画",
         "cgs": "CG",
         "general": "一般",
         "sep": "、",
