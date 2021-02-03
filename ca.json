@@ -80,7 +80,7 @@
         "up_to_date": "La vostra versió està actualitzada.",
         "available": "Una actualització està disponible.",
         "network": "No es pot comprovar si hi ha actualitzacions.\nComproveu la connexió de xarxa i torneu-ho a provar.",
-        "server": "No s’ha pogut comprovar si hi ha actualitzacions.\nSi us plau, intenta-ho més tard.\n\nSi es produeix el mateix error repetidament, envieu-me comentaris.\nPodeu consultar la resposta del servidor a {{settings}} → {{debug}} → {{latest_response}}."
+        "server": "No s’ha pogut comprovar si hi ha actualitzacions.\nSi us plau, intenta-ho més tard.\n\nSi es produeix el mateix error repetidament, envieu-me comentaris.\nPodeu consultar la resposta del servidor a {{settings}} → {{advanced}} → {{debug}} → {{latest_response}}."
     },
     "advanced": {
         "enabled": "Habilitat",
@@ -88,8 +88,27 @@
         "delete_imgur": [
             "Suprimeix Imgur Imatges a la sortida"
         ],
+        "browser": [
+            "Navegador"
+        ],
         "debug": [
             "Depuració"
+        ]
+    },
+    "browser": {
+        "in_app": "L’aplicació Safari",
+        "default": "Valor per defecte del sistema",
+        "safari": "Safari",
+        "chrome": "Google Chrome",
+        "firefox": "Firefox",
+        "firefox_focus": "Firefox Focus",
+        "brave": "Brave",
+        "edge": "Microsoft Edge",
+        "opera": "Opera Touch",
+        "dolphin": "Dolphin",
+        "custom": [
+            "Plantilla d’URL personalitzada",
+            "Introduïu una plantilla d’URL per al navegador.\n\nMacros: {{macros}}"
         ]
     }
 }
