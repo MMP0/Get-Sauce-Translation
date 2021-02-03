@@ -88,8 +88,27 @@
         "delete_imgur": [
             "Delete Imgur Images on Exit"
         ],
+        "browser": [
+            "Browser"
+        ],
         "debug": [
             "Debug"
+        ]
+    },
+    "browser": {
+        "in_app": "In-App Safari",
+        "default": "System Default",
+        "safari": "Safari",
+        "chrome": "Google Chrome",
+        "firefox": "Firefox",
+        "firefox_focus": "Firefox Focus",
+        "brave": "Brave",
+        "edge": "Microsoft Edge",
+        "opera": "Opera Touch",
+        "dolphin": "Dolphin",
+        "custom": [
+            "Custom URL Template",
+            "Enter a URL template for the browser.\n\nMacros: {{macros}}"
         ]
     }
 }
