@@ -80,7 +80,7 @@
         "up_to_date": "Versiosi on ajan tasalla.",
         "available": "Päivitys on saatavana.",
         "network": "Päivityksiä ei voi tarkistaa.\nTarkista verkkoyhteys ja yritä uudelleen.",
-        "server": "Päivitysten tarkistaminen epäonnistui.\nYritä uudelleen myöhemmin.\n\nJos sama virhe ilmenee toistuvasti, lähetä minulle palautetta.\nVoit tarkistaa palvelimen vastauksen kohdasta {{settings}} → {{debug}} → {{latest_response}}."
+        "server": "Päivitysten tarkistaminen epäonnistui.\nYritä uudelleen myöhemmin.\n\nJos sama virhe ilmenee toistuvasti, lähetä minulle palautetta.\nVoit tarkistaa palvelimen vastauksen kohdasta {{settings}} → {{advanced}} → {{debug}} → {{latest_response}}."
     },
     "advanced": {
         "enabled": "Käytössä",
@@ -88,8 +88,27 @@
         "delete_imgur": [
             "Poista Imgur-kuvat poistuessa"
         ],
+        "browser": [
+            "Selain"
+        ],
         "debug": [
             "Debug"
+        ]
+    },
+    "browser": {
+        "in_app": "Sovelluksen sisäinen Safari",
+        "default": "Järjestelmän oletusarvo",
+        "safari": "Safari",
+        "chrome": "Google Chrome",
+        "firefox": "Firefox",
+        "firefox_focus": "Firefox Focus",
+        "brave": "Brave",
+        "edge": "Microsoft Edge",
+        "opera": "Opera Touch",
+        "dolphin": "Dolphin",
+        "custom": [
+            "Mukautettu URL-malli",
+            "Kirjoita selaimen URL-malli.\n\nMakrot: {{macros}}"
         ]
     }
 }
