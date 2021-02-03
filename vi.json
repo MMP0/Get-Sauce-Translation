@@ -80,7 +80,7 @@
         "up_to_date": "Phiên bản của bạn được cập nhật.",
         "available": "Một bản cập nhật có sẵn.",
         "network": "Không thể kiểm tra cập nhật.\nVui lòng kiểm tra kết nối mạng của bạn và thử lại.",
-        "server": "Không thể kiểm tra cập nhật.\nVui lòng thử lại sau.\n\nNếu lỗi tương tự xảy ra liên tục, xin vui lòng gửi cho tôi thông tin phản hồi.\nBạn có thể kiểm tra phản hồi của máy chủ tại {{settings}} → {{debug}} → {{latest_response}}."
+        "server": "Không thể kiểm tra cập nhật.\nVui lòng thử lại sau.\n\nNếu lỗi tương tự xảy ra liên tục, xin vui lòng gửi cho tôi thông tin phản hồi.\nBạn có thể kiểm tra phản hồi của máy chủ tại {{settings}} → {{advanced}} → {{debug}} → {{latest_response}}."
     },
     "advanced": {
         "enabled": "Đã bật",
@@ -88,8 +88,27 @@
         "delete_imgur": [
             "Xóa hình ảnh Imgur khi thoát"
         ],
+        "browser": [
+            "Trình duyệt"
+        ],
         "debug": [
             "Gỡ lỗi"
+        ]
+    },
+    "browser": {
+        "in_app": "Safari trong ứng dụng",
+        "default": "Mặc định hệ thống",
+        "safari": "Safari",
+        "chrome": "Google Chrome",
+        "firefox": "Firefox",
+        "firefox_focus": "Firefox Focus",
+        "brave": "Brave",
+        "edge": "Microsoft Edge",
+        "opera": "Opera Touch",
+        "dolphin": "Dolphin",
+        "custom": [
+            "Mẫu URL tùy chỉnh",
+            "Nhập mẫu URL cho trình duyệt.\n\nMacro: {{macros}}"
         ]
     }
 }
