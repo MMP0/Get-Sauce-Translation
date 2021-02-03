@@ -80,7 +80,7 @@
         "up_to_date": "お使いのバージョンは最新です。",
         "available": "アップデートが利用可能です。",
         "network": "アップデートを確認できません。\nネットワーク接続を確認して再度お試しください。",
-        "server": "アップデートの確認に失敗しました。\nしばらく経ってから再度お試しください。\n\n同じエラーが繰り返し発生する場合は、フィードバックをお寄せください。\n{{settings}} → {{debug}} → {{latest_response}} でサーバの応答を確認できます。"
+        "server": "アップデートの確認に失敗しました。\nしばらく経ってから再度お試しください。\n\n同じエラーが繰り返し発生する場合は、フィードバックをお寄せください。\n{{settings}} → {{advanced}} → {{debug}} → {{latest_response}} でサーバの応答を確認できます。"
     },
     "advanced": {
         "enabled": "有効",
@@ -88,8 +88,27 @@
         "delete_imgur": [
             "終了時にImgurの画像を削除"
         ],
+        "browser": [
+            "ブラウザ"
+        ],
         "debug": [
             "デバッグ"
+        ]
+    },
+    "browser": {
+        "in_app": "App内Safari",
+        "default": "システムデフォルト",
+        "safari": "Safari",
+        "chrome": "Google Chrome",
+        "firefox": "Firefox",
+        "firefox_focus": "Firefox Focus",
+        "brave": "Brave",
+        "edge": "Microsoft Edge",
+        "opera": "Opera Touch",
+        "dolphin": "Dolphin",
+        "custom": [
+            "カスタムURLテンプレート",
+            "ブラウザのURLテンプレートを入力してください。\n\nマクロ: {{macros}}"
         ]
     }
 }
