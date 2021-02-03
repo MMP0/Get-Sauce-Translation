@@ -96,7 +96,7 @@
         ]
     },
     "browser": {
-        "in_app": "Aplikace Safari",
+        "in_app": "Safari v aplikaci",
         "default": "Výchozí nastavení systému",
         "safari": "Safari",
         "chrome": "Google Chrome",
