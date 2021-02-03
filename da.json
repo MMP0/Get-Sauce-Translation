@@ -96,7 +96,7 @@
         ]
     },
     "browser": {
-        "in_app": "Safari-appen",
+        "in_app": "Safari i appen",
         "default": "Systemstandard",
         "safari": "Safari",
         "chrome": "Google Chrome",
