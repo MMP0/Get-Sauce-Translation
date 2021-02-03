@@ -80,7 +80,7 @@
         "up_to_date": "A verzióod naprakész.",
         "available": "Frissítés érhető el.",
         "network": "Nem sikerült ellenőrizni a frissítéseket.\nEllenőrizze a hálózati kapcsolatot, és próbálja újra.",
-        "server": "Nem sikerült ellenőrizni a frissítéseket.\nKérlek, próbáld újra később.\n\nHa ugyanaz a hiba ismétlődik, kérjük, küldjön visszajelzést.\nA kiszolgáló válaszát a {{settings}} → {{debug}} → {{latest_response}} pontokban ellenőrizheti."
+        "server": "Nem sikerült ellenőrizni a frissítéseket.\nKérlek, próbáld újra később.\n\nHa ugyanaz a hiba ismétlődik, kérjük, küldjön visszajelzést.\nA kiszolgáló válaszát a {{settings}} → {{advanced}} → {{debug}} → {{latest_response}} pontokban ellenőrizheti."
     },
     "advanced": {
         "enabled": "Be",
@@ -88,8 +88,27 @@
         "delete_imgur": [
             "Törölje az Imgur képeket kilépéskor"
         ],
+        "browser": [
+            "Böngésző"
+        ],
         "debug": [
             "Hibakeresés"
+        ]
+    },
+    "browser": {
+        "in_app": "Alkalmazáson belüli Safari",
+        "default": "Rendszer alapértelmezett",
+        "safari": "Safari",
+        "chrome": "Google Chrome",
+        "firefox": "Firefox",
+        "firefox_focus": "Firefox Focus",
+        "brave": "Brave",
+        "edge": "Microsoft Edge",
+        "opera": "Opera Touch",
+        "dolphin": "Dolphin",
+        "custom": [
+            "Egyéni URL-sablon",
+            "Írja be a böngésző URL-sablonját.\n\nMakrók: {{macros}}"
         ]
     }
 }
