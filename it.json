@@ -80,7 +80,7 @@
         "up_to_date": "La tua versione è aggiornata.",
         "available": "Un aggiornamento è disponibile.",
         "network": "Impossibile controllare gli aggiornamenti.\nControlla la connessione di rete e riprova.",
-        "server": "Impossibile controllare gli aggiornamenti.\nRiprova più tardi.\n\nSe lo stesso errore si verifica ripetutamente, per favore inviami un feedback.\nPuoi controllare la risposta al server su {{settings}} → {{debug}} → {{latest_response}}."
+        "server": "Impossibile controllare gli aggiornamenti.\nRiprova più tardi.\n\nSe lo stesso errore si verifica ripetutamente, per favore inviami un feedback.\nPuoi controllare la risposta al server su {{settings}} → {{advanced}} → {{debug}} → {{latest_response}}."
     },
     "advanced": {
         "enabled": "Abilitato",
@@ -88,8 +88,27 @@
         "delete_imgur": [
             "Elimina le immagini Imgur all’uscita"
         ],
+        "browser": [
+            "Browser"
+        ],
         "debug": [
             "Debug"
+        ]
+    },
+    "browser": {
+        "in_app": "Safari in-app",
+        "default": "Default del sistema",
+        "safari": "Safari",
+        "chrome": "Google Chrome",
+        "firefox": "Firefox",
+        "firefox_focus": "Firefox Focus",
+        "brave": "Brave",
+        "edge": "Microsoft Edge",
+        "opera": "Opera Touch",
+        "dolphin": "Dolphin",
+        "custom": [
+            "Modello di URL personalizzato",
+            "Immettere un modello di URL per il browser.\n\nMacro: {{macros}}"
         ]
     }
 }
