@@ -80,7 +80,7 @@
         "up_to_date": "Vaša je verzija ažurirana.",
         "available": "Dostupno je ažuriranje.",
         "network": "Nije moguće provjeriti ažuriranja.\nProvjerite mrežnu vezu i pokušajte ponovo.",
-        "server": "Provjera ažuriranja nije uspjela.\nMolimo pokušajte ponovo kasnije.\n\nAko se ista greška ponavlja više puta, pošaljite mi povratne informacije.\nOdgovor poslužitelja možete provjeriti na {{settings}} → {{debug}} → {{latest_response}}."
+        "server": "Provjera ažuriranja nije uspjela.\nMolimo pokušajte ponovo kasnije.\n\nAko se ista greška ponavlja više puta, pošaljite mi povratne informacije.\nOdgovor poslužitelja možete provjeriti na {{settings}} → {{advanced}} → {{debug}} → {{latest_response}}."
     },
     "advanced": {
         "enabled": "Omogućeno",
@@ -88,8 +88,27 @@
         "delete_imgur": [
             "Izbrišite Imgur slike na izlazu"
         ],
+        "browser": [
+            "Browser"
+        ],
         "debug": [
             "Otkloniti neispravnost"
+        ]
+    },
+    "browser": {
+        "in_app": "Safari u aplikaciji",
+        "default": "Zadani sustav",
+        "safari": "Safari",
+        "chrome": "Google Chrome",
+        "firefox": "Firefox",
+        "firefox_focus": "Firefox Focus",
+        "brave": "Brave",
+        "edge": "Microsoft Edge",
+        "opera": "Opera Touch",
+        "dolphin": "Dolphin",
+        "custom": [
+            "Predložak prilagođenog URL-a",
+            "Unesite predložak URL-a za preglednik.\n\nMakronaredbe: {{macros}}"
         ]
     }
 }
