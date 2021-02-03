@@ -80,7 +80,7 @@
         "up_to_date": "Su versión está actualizada.",
         "available": "Una actualización está disponible.",
         "network": "No se pueden verificar las actualizaciones.\nVerifique su conexión de red e intente nuevamente.",
-        "server": "Error al buscar actualizaciones.\nPor favor, inténtelo de nuevo más tarde.\n\nSi el mismo error ocurre repetidamente, por favor envíeme sus comentarios.\nPuede verificar la respuesta del servidor en {{settings}} → {{debug}} → {{latest_response}}."
+        "server": "Error al buscar actualizaciones.\nPor favor, inténtelo de nuevo más tarde.\n\nSi el mismo error ocurre repetidamente, por favor envíeme sus comentarios.\nPuede verificar la respuesta del servidor en {{settings}} → {{advanced}} → {{debug}} → {{latest_response}}."
     },
     "advanced": {
         "enabled": "Habilitado",
@@ -88,8 +88,27 @@
         "delete_imgur": [
             "Eliminar imágenes de Imgur al salir"
         ],
+        "browser": [
+            "Navegador"
+        ],
         "debug": [
             "Depurar"
+        ]
+    },
+    "browser": {
+        "in_app": "Safari en la aplicación",
+        "default": "Sistema por defecto",
+        "safari": "Safari",
+        "chrome": "Google Chrome",
+        "firefox": "Firefox",
+        "firefox_focus": "Firefox Focus",
+        "brave": "Brave",
+        "edge": "Microsoft Edge",
+        "opera": "Opera Touch",
+        "dolphin": "Dolphin",
+        "custom": [
+            "Plantilla de URL personalizada",
+            "Ingrese una plantilla de URL para el navegador.\n\nMacros: {{macros}}"
         ]
     }
 }
