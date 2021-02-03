@@ -96,7 +96,7 @@
         ]
     },
     "browser": {
-        "in_app": "L’aplicació Safari",
+        "in_app": "Safari integrat a l’aplicació",
         "default": "Valor per defecte del sistema",
         "safari": "Safari",
         "chrome": "Google Chrome",
