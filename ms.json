@@ -80,7 +80,7 @@
         "up_to_date": "Versi anda adalah terkini.",
         "available": "Kemas kini tersedia.",
         "network": "Tidak dapat menyemak kemas kini.\nSila semak sambungan rangkaian anda dan cuba lagi.",
-        "server": "Gagal menyemak kemas kini.\nSila cuba sebentar lagi.\n\nJika ralat yang sama berlaku berulang kali, sila hantar maklum balas kepada saya.\nAnda boleh menyemak respons pelayan di {{settings}} → {{debug}} → {{latest_response}}."
+        "server": "Gagal menyemak kemas kini.\nSila cuba sebentar lagi.\n\nJika ralat yang sama berlaku berulang kali, sila hantar maklum balas kepada saya.\nAnda boleh menyemak respons pelayan di {{settings}} → {{advanced}} → {{debug}} → {{latest_response}}."
     },
     "advanced": {
         "enabled": "Diaktifkan",
@@ -88,8 +88,27 @@
         "delete_imgur": [
             "Padamkan Imgur Imej di Keluar"
         ],
+        "browser": [
+            "Penyemak Imbas"
+        ],
         "debug": [
             "Debug"
+        ]
+    },
+    "browser": {
+        "in_app": "Safari Dalam Apl",
+        "default": "Lalai Sistem",
+        "safari": "Safari",
+        "chrome": "Google Chrome",
+        "firefox": "Firefox",
+        "firefox_focus": "Firefox Focus",
+        "brave": "Brave",
+        "edge": "Microsoft Edge",
+        "opera": "Opera Touch",
+        "dolphin": "Dolphin",
+        "custom": [
+            "Templat URL tersuai",
+            "Masukkan templat URL untuk penyemak imbas.\n\nMakro: {{macros}}"
         ]
     }
 }

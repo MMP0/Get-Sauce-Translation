@@ -80,7 +80,7 @@
         "up_to_date": "Din versjon er oppdatert.",
         "available": "En oppdatering er tilgjengelig.",
         "network": "Kan ikke se etter oppdateringer.\nKontroller nettverkstilkoblingen din og prøv igjen.",
-        "server": "Kunne ikke se etter oppdateringer.\nPrøv igjen senere.\n\nHvis den samme feilen oppstår gjentatte ganger, kan du sende meg tilbakemelding.\nDu kan sjekke serverresponsen ved {{settings}} → {{debug}} → {{latest_response}}."
+        "server": "Kunne ikke se etter oppdateringer.\nPrøv igjen senere.\n\nHvis den samme feilen oppstår gjentatte ganger, kan du sende meg tilbakemelding.\nDu kan sjekke serverresponsen ved {{settings}} → {{advanced}} → {{debug}} → {{latest_response}}."
     },
     "advanced": {
         "enabled": "Aktivert",
@@ -88,8 +88,27 @@
         "delete_imgur": [
             "Slett Imgur-bilder ved avkjørsel"
         ],
+        "browser": [
+            "Nettleser"
+        ],
         "debug": [
             "Feilsøk"
+        ]
+    },
+    "browser": {
+        "in_app": "Safari i appen",
+        "default": "System standard",
+        "safari": "Safari",
+        "chrome": "Google Chrome",
+        "firefox": "Firefox",
+        "firefox_focus": "Firefox Focus",
+        "brave": "Brave",
+        "edge": "Microsoft Edge",
+        "opera": "Opera Touch",
+        "dolphin": "Dolphin",
+        "custom": [
+            "Tilpasset URL-mal",
+            "Skriv inn en URL-mal for nettleseren.\n\nMakroer: {{macros}}"
         ]
     }
 }

@@ -80,7 +80,7 @@
         "up_to_date": "Sürümünüz güncel.",
         "available": "Bir güncelleme mevcut.",
         "network": "Güncellemeler kontrol edilemiyor.\nLütfen ağ bağlantınızı kontrol edip tekrar deneyin.",
-        "server": "Güncellemeler kontrol edilemedi.\nLütfen daha sonra tekrar deneyiniz.\n\nAynı hata tekrar tekrar meydana gelirse, lütfen bana geri bildirim gönderin.\nSunucu yanıtını {{settings}} → {{debug}} → {{latest_response}} adresinden kontrol edebilirsiniz."
+        "server": "Güncellemeler kontrol edilemedi.\nLütfen daha sonra tekrar deneyiniz.\n\nAynı hata tekrar tekrar meydana gelirse, lütfen bana geri bildirim gönderin.\nSunucu yanıtını {{settings}} → {{advanced}} → {{debug}} → {{latest_response}} adresinden kontrol edebilirsiniz."
     },
     "advanced": {
         "enabled": "Açık",
@@ -88,8 +88,27 @@
         "delete_imgur": [
             "Çıkışta Imgur Görüntülerini Sil"
         ],
+        "browser": [
+            "Tarayıcı"
+        ],
         "debug": [
             "Hata Ayıklama"
+        ]
+    },
+    "browser": {
+        "in_app": "Uygulama İçi Safari",
+        "default": "Sistem varsayılanı",
+        "safari": "Safari",
+        "chrome": "Google Chrome",
+        "firefox": "Firefox",
+        "firefox_focus": "Firefox Focus",
+        "brave": "Brave",
+        "edge": "Microsoft Edge",
+        "opera": "Opera Touch",
+        "dolphin": "Dolphin",
+        "custom": [
+            "Özel URL Şablonu",
+            "Tarayıcı için bir URL şablonu girin.\n\nMakrolar: {{macros}}"
         ]
     }
 }

@@ -80,7 +80,7 @@
         "up_to_date": "Sua versão está atualizada.",
         "available": "Uma atualização está disponível.",
         "network": "Não foi possível verificar se há atualizações.\nVerifique sua conexão de rede e tente novamente.",
-        "server": "Falha ao verificar se há atualizações.\nPor favor, tente novamente mais tarde.\n\nSe o mesmo erro ocorrer repetidamente, envie-me um comentários.\nVocê pode verificar a resposta do servidor em {{settings}} → {{debug}} → {{latest_response}}."
+        "server": "Falha ao verificar se há atualizações.\nPor favor, tente novamente mais tarde.\n\nSe o mesmo erro ocorrer repetidamente, envie-me um comentários.\nVocê pode verificar a resposta do servidor em {{settings}} → {{advanced}} → {{debug}} → {{latest_response}}."
     },
     "advanced": {
         "enabled": "Ativado",
@@ -88,8 +88,27 @@
         "delete_imgur": [
             "Excluir imagens Imgur ao sair"
         ],
+        "browser": [
+            "Navegador"
+        ],
         "debug": [
             "Depurar"
+        ]
+    },
+    "browser": {
+        "in_app": "Safari no aplicativo",
+        "default": "Sistema padrão",
+        "safari": "Safari",
+        "chrome": "Google Chrome",
+        "firefox": "Firefox",
+        "firefox_focus": "Firefox Focus",
+        "brave": "Brave",
+        "edge": "Microsoft Edge",
+        "opera": "Opera Touch",
+        "dolphin": "Dolphin",
+        "custom": [
+            "Modelo de URL personalizado",
+            "Insira um modelo de URL para o navegador.\n\nMacros: {{macros}}"
         ]
     }
 }

@@ -80,7 +80,7 @@
         "up_to_date": "버전이 최신입니다.",
         "available": "업데이트가 가능합니다.",
         "network": "업데이트를 확인할 수 없습니다.\n네트워크 연결을 확인하고 다시 시도하십시오.",
-        "server": "업데이트를 확인하지 못했습니다.\n나중에 다시 시도하세요.\n\n동일한 오류가 반복적으로 발생하면 의견을 보내 주시기 바랍니다.\n{{settings}} → {{debug}} → {{latest_response}} 에서 서버 응답을 확인할 수 있습니다."
+        "server": "업데이트를 확인하지 못했습니다.\n나중에 다시 시도하세요.\n\n동일한 오류가 반복적으로 발생하면 의견을 보내 주시기 바랍니다.\n{{settings}} → {{advanced}} → {{debug}} → {{latest_response}} 에서 서버 응답을 확인할 수 있습니다."
     },
     "advanced": {
         "enabled": "활성화",
@@ -88,8 +88,27 @@
         "delete_imgur": [
             "종료시 Imgur 이미지 삭제"
         ],
+        "browser": [
+            "브라우저"
+        ],
         "debug": [
             "디버그"
+        ]
+    },
+    "browser": {
+        "in_app": "인앱 사파리",
+        "default": "시스템 기본값",
+        "safari": "Safari",
+        "chrome": "Google Chrome",
+        "firefox": "Firefox",
+        "firefox_focus": "Firefox Focus",
+        "brave": "Brave",
+        "edge": "Microsoft Edge",
+        "opera": "Opera Touch",
+        "dolphin": "Dolphin",
+        "custom": [
+            "맞춤 URL 템플릿",
+            "브라우저의 URL 템플릿을 입력하십시오.\n\n매크로: {{macros}}"
         ]
     }
 }

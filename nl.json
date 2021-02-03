@@ -80,7 +80,7 @@
         "up_to_date": "Uw versie is bijgewerkt.",
         "available": "Een update is beschikbaar.",
         "network": "Kan niet controleren op updates.\nControleer uw netwerkverbinding en probeer het opnieuw.",
-        "server": "Kan niet controleren op updates.\nProbeer het later opnieuw.\n\nStuur mij feedback als dezelfde fout herhaaldelijk optreedt.\nU kunt de serverreactie controleren op {{settings}} → {{debug}} → {{latest_response}}."
+        "server": "Kan niet controleren op updates.\nProbeer het later opnieuw.\n\nStuur mij feedback als dezelfde fout herhaaldelijk optreedt.\nU kunt de serverreactie controleren op {{settings}} → {{advanced}} → {{debug}} → {{latest_response}}."
     },
     "advanced": {
         "enabled": "Ingeschakeld",
@@ -88,8 +88,27 @@
         "delete_imgur": [
             "Verwijder Imgur-afbeeldingen bij afsluiten"
         ],
+        "browser": [
+            "Browser"
+        ],
         "debug": [
             "Debuggen"
+        ]
+    },
+    "browser": {
+        "in_app": "Safari in de app",
+        "default": "Systeemfout",
+        "safari": "Safari",
+        "chrome": "Google Chrome",
+        "firefox": "Firefox",
+        "firefox_focus": "Firefox Focus",
+        "brave": "Brave",
+        "edge": "Microsoft Edge",
+        "opera": "Opera Touch",
+        "dolphin": "Dolphin",
+        "custom": [
+            "Aangepaste URL-sjabloon",
+            "Voer een URL-sjabloon voor de browser in.\n\nMacro’s: {{macros}}"
         ]
     }
 }

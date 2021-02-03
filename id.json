@@ -80,7 +80,7 @@
         "up_to_date": "Versi Anda mutakhir.",
         "available": "Pembaruan tersedia.",
         "network": "Tidak dapat memeriksa pembaruan.\nSilakan periksa koneksi jaringan Anda dan coba lagi.",
-        "server": "Gagal memeriksa pembaruan.\nSilakan coba lagi nanti.\n\nJika kesalahan yang sama terjadi berulang kali, kirimkan saya umpan balik.\nAnda dapat memeriksa respons server di {{settings}} → {{debug}} → {{latest_response}}."
+        "server": "Gagal memeriksa pembaruan.\nSilakan coba lagi nanti.\n\nJika kesalahan yang sama terjadi berulang kali, kirimkan saya umpan balik.\nAnda dapat memeriksa respons server di {{settings}} → {{advanced}} → {{debug}} → {{latest_response}}."
     },
     "advanced": {
         "enabled": "Diaktifkan",
@@ -88,8 +88,27 @@
         "delete_imgur": [
             "Hapus Gambar Imgur saat Keluar"
         ],
+        "browser": [
+            "Browser"
+        ],
         "debug": [
             "Debug"
+        ]
+    },
+    "browser": {
+        "in_app": "Safari Dalam Aplikasi",
+        "default": "Default Sistem",
+        "safari": "Safari",
+        "chrome": "Google Chrome",
+        "firefox": "Firefox",
+        "firefox_focus": "Firefox Focus",
+        "brave": "Brave",
+        "edge": "Microsoft Edge",
+        "opera": "Opera Touch",
+        "dolphin": "Dolphin",
+        "custom": [
+            "Template URL Kustom",
+            "Masukkan template URL untuk browser.\n\nMakro: {{macros}}"
         ]
     }
 }

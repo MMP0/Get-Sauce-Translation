@@ -80,7 +80,7 @@
         "up_to_date": "Din version är uppdaterad.",
         "available": "En uppdatering är tillgänglig.",
         "network": "Det går inte att leta efter uppdateringar.\nKontrollera din nätverksanslutning och försök igen.",
-        "server": "Det gick inte att leta efter uppdateringar.\nVänligen försök igen senare.\n\nOm samma fel uppstår upprepade gånger, skicka mig feedback.\nDu kan kontrollera serverns svar på {{settings}} → {{debug}} → {{latest_response}}."
+        "server": "Det gick inte att leta efter uppdateringar.\nVänligen försök igen senare.\n\nOm samma fel uppstår upprepade gånger, skicka mig feedback.\nDu kan kontrollera serverns svar på {{settings}} → {{advanced}} → {{debug}} → {{latest_response}}."
     },
     "advanced": {
         "enabled": "Aktiverad",
@@ -88,8 +88,27 @@
         "delete_imgur": [
             "Radera Imgur-bilder vid utgång"
         ],
+        "browser": [
+            "Webbläsare"
+        ],
         "debug": [
             "Debug"
+        ]
+    },
+    "browser": {
+        "in_app": "Safari i appen",
+        "default": "Systemfel",
+        "safari": "Safari",
+        "chrome": "Google Chrome",
+        "firefox": "Firefox",
+        "firefox_focus": "Firefox Focus",
+        "brave": "Brave",
+        "edge": "Microsoft Edge",
+        "opera": "Opera Touch",
+        "dolphin": "Dolphin",
+        "custom": [
+            "Anpassad webbadressmall",
+            "Ange en URL-mall för webbläsaren.\n\nMakron: {{macros}}"
         ]
     }
 }

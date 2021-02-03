@@ -80,7 +80,7 @@
         "up_to_date": "Din version er ajour.",
         "available": "En opdatering er tilgængelig.",
         "network": "Kan ikke kontrollere for opdateringer.\nKontroller din netværksforbindelse, og prøv igen.",
-        "server": "Kontrol af opdateringer kunne ikke kontrolleres.\nPrøv igen senere.\n\nHvis den samme fejl opstår gentagne gange, så send mig feedback.\nDu kan kontrollere serverresponset på {{settings}} → {{debug}} → {{latest_response}}."
+        "server": "Kontrol af opdateringer kunne ikke kontrolleres.\nPrøv igen senere.\n\nHvis den samme fejl opstår gentagne gange, så send mig feedback.\nDu kan kontrollere serverresponset på {{settings}} → {{advanced}} → {{debug}} → {{latest_response}}."
     },
     "advanced": {
         "enabled": "Aktiveret",
@@ -88,8 +88,27 @@
         "delete_imgur": [
             "Slet Imgur-billeder ved udgang"
         ],
+        "browser": [
+            "Browser"
+        ],
         "debug": [
             "Fejlfinde"
+        ]
+    },
+    "browser": {
+        "in_app": "Safari i appen",
+        "default": "Systemstandard",
+        "safari": "Safari",
+        "chrome": "Google Chrome",
+        "firefox": "Firefox",
+        "firefox_focus": "Firefox Focus",
+        "brave": "Brave",
+        "edge": "Microsoft Edge",
+        "opera": "Opera Touch",
+        "dolphin": "Dolphin",
+        "custom": [
+            "Tilpasset URL-skabelon",
+            "Indtast en URL-skabelon til browseren.\n\nMakroer: {{macros}}"
         ]
     }
 }

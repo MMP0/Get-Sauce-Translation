@@ -80,7 +80,7 @@
         "up_to_date": "आपका संस्करण अद्यतित है।",
         "available": "एक अपडेट उपलब्ध है।",
         "network": "अद्यतनों की जांच करने में असमर्थ।\nकृपया अपना नेटवर्क कनेक्शन जांचें और पुनः प्रयास करें।",
-        "server": "अद्यतनों की जांच करने में विफल।\nबाद में पुन: प्रयास करें।\n\nयदि एक ही त्रुटि बार-बार होती है, तो कृपया मुझे प्रतिक्रिया भेजें।\nआप {{settings}} → {{debug}} → {{latest_response}} पर सर्वर की प्रतिक्रिया की जांच कर सकते हैं।"
+        "server": "अद्यतनों की जांच करने में विफल।\nबाद में पुन: प्रयास करें।\n\nयदि एक ही त्रुटि बार-बार होती है, तो कृपया मुझे प्रतिक्रिया भेजें।\nआप {{settings}} → {{advanced}} → {{debug}} → {{latest_response}} पर सर्वर की प्रतिक्रिया की जांच कर सकते हैं।"
     },
     "advanced": {
         "enabled": "सक्रिय",
@@ -88,8 +88,27 @@
         "delete_imgur": [
             "बाहर निकलने पर Imgur Images को डिलीट करें"
         ],
+        "browser": [
+            "ब्राउज़र"
+        ],
         "debug": [
             "डिबग"
+        ]
+    },
+    "browser": {
+        "in_app": "इन-ऐप Safari",
+        "default": "प्रणालीगत चूक",
+        "safari": "Safari",
+        "chrome": "Google Chrome",
+        "firefox": "Firefox",
+        "firefox_focus": "Firefox Focus",
+        "brave": "Brave",
+        "edge": "Microsoft Edge",
+        "opera": "Opera Touch",
+        "dolphin": "Dolphin",
+        "custom": [
+            "कस्टम URL टेम्पलेट",
+            "ब्राउज़र के लिए एक URL टेम्पलेट दर्ज करें।\n\nमैक्रों: {{macros}}"
         ]
     }
 }

@@ -81,7 +81,7 @@
         "up_to_date": "·ǝʇɐp oʇ dn sᴉ uoᴉsɹǝʌ ɹno⅄",
         "available": "·ǝๅqɐๅᴉɐʌɐ sᴉ ǝʇɐpdn uⱯ",
         "network": "·uᴉɐɓɐ ʎɹʇ puɐ uoᴉʇɔǝuuoɔ ʞɹoʍʇǝu ɹnoʎ ʞɔǝɥɔ ǝsɐǝๅꓒ\n·sǝʇɐpdn ɹoɟ ʞɔǝɥɔ oʇ ǝๅqɐuꓵ",
-        "server": "·{{latest_response}} ← {{debug}} ← {{settings}} ʇɐ ǝsuodsǝɹ ɹǝʌɹǝs ǝɥʇ ʞɔǝɥɔ uɐɔ no⅄\n·ʞɔɐqpǝǝɟ ǝɯ puǝs ǝsɐǝๅd ʻʎๅpǝʇɐǝdǝɹ sɹnɔɔo ɹoɹɹǝ ǝɯɐs ǝɥʇ ɟI\n\n·ɹǝʇɐๅ uᴉɐɓɐ ʎɹʇ ǝsɐǝๅꓒ\n·sǝʇɐpdn ɹoɟ ʞɔǝɥɔ oʇ pǝๅᴉɐꓞ"
+        "server": "·{{latest_response}} ← {{debug}} ← {{advanced}} ← {{settings}} ʇɐ ǝsuodsǝɹ ɹǝʌɹǝs ǝɥʇ ʞɔǝɥɔ uɐɔ no⅄\n·ʞɔɐqpǝǝɟ ǝɯ puǝs ǝsɐǝๅd ʻʎๅpǝʇɐǝdǝɹ sɹnɔɔo ɹoɹɹǝ ǝɯɐs ǝɥʇ ɟI\n\n·ɹǝʇɐๅ uᴉɐɓɐ ʎɹʇ ǝsɐǝๅꓒ\n·sǝʇɐpdn ɹoɟ ʞɔǝɥɔ oʇ pǝๅᴉɐꓞ"
     },
     "advanced": {
         "enabled": "pǝๅqɐuƎ",
@@ -89,8 +89,27 @@
         "delete_imgur": [
             "ʇᴉxƎ uo sǝɓɐɯI ɹnɓɯI ǝʇǝๅǝꓷ"
         ],
+        "browser": [
+            "ɹǝsʍoɹꓭ"
+        ],
         "debug": [
             "ɓnqǝꓷ"
+        ]
+    },
+    "browser": {
+        "in_app": "ᴉɹɐɟɐS ddⱯ-uI",
+        "default": "ʇๅnɐɟǝꓷ ɯǝʇsʎS",
+        "safari": "ᴉɹɐɟɐS",
+        "chrome": "ǝɯoɹɥꓛ ǝๅɓooꓨ",
+        "firefox": "xoɟǝɹᴉꓞ",
+        "firefox_focus": "snɔoꓞ xoɟǝɹᴉꓞ",
+        "brave": "ǝʌɐɹꓭ",
+        "edge": "ǝɓpƎ ʇɟosoɹɔᴉW",
+        "opera": "ɥɔnoꓕ ɐɹǝdO",
+        "dolphin": "uᴉɥdๅoꓷ",
+        "custom": [
+            "ǝʇɐๅdɯǝꓕ ꓶꓤꓵ ɯoʇsnꓛ",
+            "{{macros}} :soɹɔɐW\n\n·ɹǝsʍoɹq ǝɥʇ ɹoɟ ǝʇɐๅdɯǝʇ ꓶꓤꓵ ɐ ɹǝʇuƎ"
         ]
     }
 }

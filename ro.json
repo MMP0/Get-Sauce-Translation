@@ -80,7 +80,7 @@
         "up_to_date": "Versiunea dvs. este la zi.",
         "available": "O actualizare este disponibilă.",
         "network": "Imposibil de verificat actualizările.\nVerificați conexiunea la rețea și încercați din nou.",
-        "server": "Eroare la verificarea actualizărilor.\nVă rugăm să încercați din nou mai târziu.\n\nDacă aceeași eroare apare în mod repetat, vă rugăm să-mi trimiteți feedback.\nPuteți verifica răspunsul serverului la {{settings}} → {{debug}} → {{latest_response}}."
+        "server": "Eroare la verificarea actualizărilor.\nVă rugăm să încercați din nou mai târziu.\n\nDacă aceeași eroare apare în mod repetat, vă rugăm să-mi trimiteți feedback.\nPuteți verifica răspunsul serverului la {{settings}} → {{advanced}} → {{debug}} → {{latest_response}}."
     },
     "advanced": {
         "enabled": "Activat",
@@ -88,8 +88,27 @@
         "delete_imgur": [
             "Ștergeți imagini Imgur la ieșire"
         ],
+        "browser": [
+            "Browser"
+        ],
         "debug": [
             "Debug"
+        ]
+    },
+    "browser": {
+        "in_app": "Safari în aplicație",
+        "default": "Defectiune de sistem",
+        "safari": "Safari",
+        "chrome": "Google Chrome",
+        "firefox": "Firefox",
+        "firefox_focus": "Firefox Focus",
+        "brave": "Brave",
+        "edge": "Microsoft Edge",
+        "opera": "Opera Touch",
+        "dolphin": "Dolphin",
+        "custom": [
+            "Șablon URL personalizat",
+            "Introduceți un șablon URL pentru browser.\n\nMacrocomenzi: {{macros}}"
         ]
     }
 }

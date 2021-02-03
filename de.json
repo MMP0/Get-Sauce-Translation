@@ -80,7 +80,7 @@
         "up_to_date": "Ihre Version ist aktuell.",
         "available": "Eine Aktualisierung ist verfügbar.",
         "network": "Aktualisierungen konnten nicht überprüft werden.\nBitte überprüfen Sie Ihre Netzwerkverbindung und versuchen Sie es erneut.",
-        "server": "Fehler beim Überprüfen der Updates.\nBitte versuchen Sie es später erneut.\n\nWenn der gleiche Fehler wiederholt auftritt, senden Sie mir bitte Feedback.\nSie können die Serverantwort unter {{settings}} → {{debug}} → {{latest_response}} überprüfen."
+        "server": "Fehler beim Überprüfen der Updates.\nBitte versuchen Sie es später erneut.\n\nWenn der gleiche Fehler wiederholt auftritt, senden Sie mir bitte Feedback.\nSie können die Serverantwort unter {{settings}} → {{advanced}} → {{debug}} → {{latest_response}} überprüfen."
     },
     "advanced": {
         "enabled": "Aktiviert",
@@ -88,8 +88,27 @@
         "delete_imgur": [
             "Löschen Sie Imgur-Bilder beim Beenden"
         ],
+        "browser": [
+            "Browser"
+        ],
         "debug": [
             "Debuggen"
+        ]
+    },
+    "browser": {
+        "in_app": "In-App-Safari",
+        "default": "Systemfehler",
+        "safari": "Safari",
+        "chrome": "Google Chrome",
+        "firefox": "Firefox",
+        "firefox_focus": "Firefox Focus",
+        "brave": "Brave",
+        "edge": "Microsoft Edge",
+        "opera": "Opera Touch",
+        "dolphin": "Dolphin",
+        "custom": [
+            "Benutzerdefinierte URL-Vorlage",
+            "Geben Sie eine URL-Vorlage für den Browser ein.\n\nMakros: {{macros}}"
         ]
     }
 }

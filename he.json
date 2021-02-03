@@ -81,7 +81,7 @@
         "up_to_date": "הגרסה שלך מעודכנת.",
         "available": "עדכון זמין.",
         "network": "אין אפשרות לבדוק עדכונים.\nאנא בדוק את חיבור הרשת ונסה שוב.",
-        "server": "בדיקת עדכונים נכשלה.\nבבקשה נסה שוב מאוחר יותר.\n\nאם אותה שגיאה מתרחשת שוב ושוב, אנא שלחו לי משוב.\nאתה יכול לבדוק את תגובת השרת ב {{latest_response}} ← {{debug}} ← {{settings}}."
+        "server": "בדיקת עדכונים נכשלה.\nבבקשה נסה שוב מאוחר יותר.\n\nאם אותה שגיאה מתרחשת שוב ושוב, אנא שלחו לי משוב.\nאתה יכול לבדוק את תגובת השרת ב {{latest_response}} ← {{debug}} ← {{advanced}} ← {{settings}}."
     },
     "advanced": {
         "enabled": "מופעל",
@@ -89,8 +89,27 @@
         "delete_imgur": [
             "מחק תמונות Imgur ביציאה"
         ],
+        "browser": [
+            "דפדפן"
+        ],
         "debug": [
             "ניפוי"
+        ]
+    },
+    "browser": {
+        "in_app": "Safari בתוך האפליקציה",
+        "default": "ברירת מחדל של המערכת",
+        "safari": "Safari",
+        "chrome": "Google Chrome",
+        "firefox": "Firefox",
+        "firefox_focus": "Firefox Focus",
+        "brave": "Brave",
+        "edge": "Microsoft Edge",
+        "opera": "Opera Touch",
+        "dolphin": "Dolphin",
+        "custom": [
+            "תבנית כתובת אתר מותאמת אישית",
+            "הזן תבנית URL לדפדפן.\n\nפקודות מאקרו: {{macros}}"
         ]
     }
 }

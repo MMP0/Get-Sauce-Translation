@@ -80,7 +80,7 @@
         "up_to_date": "Vaša verzia je aktuálna.",
         "available": "K dispozícii je aktualizácia.",
         "network": "Nie je možné skontrolovať aktualizácie.\nSkontrolujte sieťové pripojenie a skúste to znova.",
-        "server": "Nepodarilo sa skontrolovať aktualizácie.\nSkúste neskôr prosím.\n\nAk sa rovnaká chyba vyskytuje opakovane, pošlite mi spätnú väzbu.\nOdozvu servera môžete skontrolovať na {{settings}} → {{debug}} → {{latest_response}}."
+        "server": "Nepodarilo sa skontrolovať aktualizácie.\nSkúste neskôr prosím.\n\nAk sa rovnaká chyba vyskytuje opakovane, pošlite mi spätnú väzbu.\nOdozvu servera môžete skontrolovať na {{settings}} → {{advanced}} → {{debug}} → {{latest_response}}."
     },
     "advanced": {
         "enabled": "Aktivované",
@@ -88,8 +88,27 @@
         "delete_imgur": [
             "Odstrániť obrázky Imgur pri ukončení"
         ],
+        "browser": [
+            "Prehliadač"
+        ],
         "debug": [
             "Ladiť"
+        ]
+    },
+    "browser": {
+        "in_app": "Safari v aplikácii",
+        "default": "Predvolený systém",
+        "safari": "Safari",
+        "chrome": "Google Chrome",
+        "firefox": "Firefox",
+        "firefox_focus": "Firefox Focus",
+        "brave": "Brave",
+        "edge": "Microsoft Edge",
+        "opera": "Opera Touch",
+        "dolphin": "Dolphin",
+        "custom": [
+            "Vlastná šablóna URL",
+            "Zadajte šablónu adresy URL pre prehliadač.\n\nMakrá: {{macros}}"
         ]
     }
 }

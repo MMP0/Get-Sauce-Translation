@@ -80,7 +80,7 @@
         "up_to_date": "您的版本是最新的。",
         "available": "有更新可用。",
         "network": "无法检查更新。\n请检查网络连接并重试。",
-        "server": "检查更新失败。\n请稍后再试。\n\n如果同样的错误重复出现，请给我反馈。\n可以在 {{settings}} → {{debug}} → {{latest_response}} 检查服务器响应。"
+        "server": "检查更新失败。\n请稍后再试。\n\n如果同样的错误重复出现，请给我反馈。\n可以在 {{settings}} → {{advanced}} → {{debug}} → {{latest_response}} 检查服务器响应。"
     },
     "advanced": {
         "enabled": "启用",
@@ -88,8 +88,27 @@
         "delete_imgur": [
             "退出时删除Imgur图像"
         ],
+        "browser": [
+            "浏览器"
+        ],
         "debug": [
             "调试"
+        ]
+    },
+    "browser": {
+        "in_app": "应用内Safari",
+        "default": "系统默认值",
+        "safari": "Safari",
+        "chrome": "Google Chrome",
+        "firefox": "Firefox",
+        "firefox_focus": "Firefox Focus",
+        "brave": "Brave",
+        "edge": "Microsoft Edge",
+        "opera": "Opera Touch",
+        "dolphin": "Dolphin",
+        "custom": [
+            "自定义URL模板",
+            "请输入浏览器的URL模板。\n\n宏: {{macros}}"
         ]
     }
 }

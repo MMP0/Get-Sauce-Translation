@@ -81,7 +81,7 @@
         "up_to_date": "الإصدار الخاص بك محدث.",
         "available": "تحديث متاح.",
         "network": "غير قادر على التحقق من وجود تحديثات.\nيرجى التحقق من اتصال الشبكة والمحاولة مرة أخرى.",
-        "server": "فشل في التحقق من وجود تحديثات.\nالرجاء معاودة المحاولة في وقت لاحق.\n\nإذا حدث نفس الخطأ مرارًا وتكرارًا ، فالرجاء إرسال تعليقاتي إلي.\nيمكنك التحقق من استجابة الخادم على {{latest_response}} ← {{debug}} ← {{settings}}."
+        "server": "فشل في التحقق من وجود تحديثات.\nالرجاء معاودة المحاولة في وقت لاحق.\n\nإذا حدث نفس الخطأ مرارًا وتكرارًا ، فالرجاء إرسال تعليقاتي إلي.\nيمكنك التحقق من استجابة الخادم على {{latest_response}} ← {{debug}} ← {{advanced}} ← {{settings}}."
     },
     "advanced": {
         "enabled": "ممكن",
@@ -89,8 +89,27 @@
         "delete_imgur": [
             "حذف صور Imgur عند الخروج"
         ],
+        "browser": [
+            "المستعرض"
+        ],
         "debug": [
             "التصحيح"
+        ]
+    },
+    "browser": {
+        "in_app": "Safari داخل التطبيق",
+        "default": "النظام الافتراضي",
+        "safari": "Safari",
+        "chrome": "Google Chrome",
+        "firefox": "Firefox",
+        "firefox_focus": "Firefox Focus",
+        "brave": "Brave",
+        "edge": "Microsoft Edge",
+        "opera": "Opera Touch",
+        "dolphin": "Dolphin",
+        "custom": [
+            "قالب URL مخصص",
+            "أدخل قالب URL للمتصفح.\n\nوحدات الماكرو: {{macros}}"
         ]
     }
 }
