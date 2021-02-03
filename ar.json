@@ -97,7 +97,7 @@
         ]
     },
     "browser": {
-        "in_app": "تطبيق Safari",
+        "in_app": "Safari داخل التطبيق",
         "default": "النظام الافتراضي",
         "safari": "Safari",
         "chrome": "Google Chrome",
